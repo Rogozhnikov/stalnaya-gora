@@ -1,0 +1,561 @@
+{
+  "title": "Стальная гора: большие планы",
+  "subtitle": "Комедийная короткометражка по игре 07.11.2026",
+  "scenes": [
+    {
+      "id": "s1",
+      "title": "Встреча со стражей",
+      "source_pages": [
+        1
+      ],
+      "purpose": "Холодное открытие: самоуверенность Франца оборачивается бегством."
+    },
+    {
+      "id": "s2",
+      "title": "Лошадь тоже хочет есть",
+      "source_pages": [
+        2
+      ],
+      "purpose": "Денежная тема фильма и спокойная реакция Пиппин."
+    },
+    {
+      "id": "s3",
+      "title": "Работа мечты",
+      "source_pages": [
+        3
+      ],
+      "purpose": "Карьерная надежда Джека разбивается об срок обучения."
+    },
+    {
+      "id": "s4",
+      "title": "Служба доставки",
+      "source_pages": [
+        7
+      ],
+      "purpose": "Рабочая бизнес-идея заканчивается раскрытием двух гробов."
+    },
+    {
+      "id": "s5",
+      "title": "Деловая репутация",
+      "source_pages": [
+        12
+      ],
+      "purpose": "Пять медяков не покупают откровенность; даже скупщики краденого называют себя честными."
+    },
+    {
+      "id": "s6",
+      "title": "Внимательный сотрудник",
+      "source_pages": [
+        14,
+        18
+      ],
+      "purpose": "Сначала закладка ожидающей Пиппин, затем архивариус монетизирует буквальную слепоту."
+    },
+    {
+      "id": "s7",
+      "title": "Идеальный план",
+      "source_pages": [
+        19,
+        20
+      ],
+      "purpose": "Сложный план забывает самого нужного участника; финальная реакция Пиппин."
+    }
+  ],
+  "shots": [
+    {
+      "id": "shot-01",
+      "scene_id": "s1",
+      "page": 1,
+      "panel": 1,
+      "speaker": "Франц",
+      "text": "Господа, вы совершаете страшную ошибку.",
+      "hold": 0.7,
+      "sfx": "none",
+      "motion": "push"
+    },
+    {
+      "id": "shot-02",
+      "scene_id": "s1",
+      "page": 1,
+      "panel": 2,
+      "speaker": "Франц",
+      "text": "Я шериф этого города. Разыскиваю свою сестру Марго.",
+      "hold": 0.6,
+      "sfx": "none",
+      "motion": "right"
+    },
+    {
+      "id": "shot-03",
+      "scene_id": "s1",
+      "page": 1,
+      "panel": 2,
+      "speaker": "Охранник",
+      "text": "Хватит болтать.",
+      "hold": 0.6,
+      "sfx": "sting",
+      "motion": "left"
+    },
+    {
+      "id": "shot-04",
+      "scene_id": "s1",
+      "page": 1,
+      "panel": 4,
+      "speaker": "Франц",
+      "text": "Это не бегство. Это тактический манёвр!",
+      "hold": 0.7,
+      "sfx": "whoosh",
+      "motion": "right"
+    },
+    {
+      "id": "shot-05",
+      "scene_id": "s1",
+      "page": 1,
+      "panel": 5,
+      "speaker": "Охранник",
+      "text": "Ещё раз увидим тебя здесь — пожалеешь!",
+      "hold": 0.6,
+      "sfx": "none",
+      "motion": "push"
+    },
+    {
+      "id": "shot-06",
+      "scene_id": "s1",
+      "page": 1,
+      "panel": 6,
+      "speaker": "Франц",
+      "text": "А я ещё раз убегу!",
+      "hold": 1.1,
+      "sfx": "whoosh",
+      "motion": "pull"
+    },
+    {
+      "id": "shot-07",
+      "scene_id": "s2",
+      "page": 2,
+      "panel": 1,
+      "speaker": "Нарратор",
+      "text": "Пока Франц спасал достоинство, Джек считал расходы.",
+      "hold": 0.6,
+      "sfx": "none",
+      "motion": "left"
+    },
+    {
+      "id": "shot-08",
+      "scene_id": "s2",
+      "page": 2,
+      "panel": 1,
+      "speaker": "Конюх",
+      "text": "За лошадь — два медяка в день.",
+      "hold": 0.7,
+      "sfx": "coin",
+      "motion": "push"
+    },
+    {
+      "id": "shot-09",
+      "scene_id": "s2",
+      "page": 2,
+      "panel": 2,
+      "speaker": "Джек",
+      "text": "Два медных в день. При моём заработке — ноль.",
+      "hold": 1.1,
+      "sfx": "none",
+      "motion": "push"
+    },
+    {
+      "id": "shot-10",
+      "scene_id": "s2",
+      "page": 2,
+      "panel": 2,
+      "speaker": "Джек",
+      "text": "Ладно, пусть пока отъестся.",
+      "hold": 0.9,
+      "sfx": "none",
+      "motion": "pull"
+    },
+    {
+      "id": "shot-11",
+      "scene_id": "s3",
+      "page": 3,
+      "panel": 1,
+      "speaker": "Джек",
+      "text": "Спрошу, как получить такую работу.",
+      "hold": 0.6,
+      "sfx": "none",
+      "motion": "right"
+    },
+    {
+      "id": "shot-12",
+      "scene_id": "s3",
+      "page": 3,
+      "panel": 1,
+      "speaker": "Пиппин",
+      "text": "К инквизиции? Иди сам.",
+      "hold": 0.7,
+      "sfx": "none",
+      "motion": "left"
+    },
+    {
+      "id": "shot-13",
+      "scene_id": "s3",
+      "page": 3,
+      "panel": 2,
+      "speaker": "Джек",
+      "text": "Я тоже извозчик. Как к вам устроиться?",
+      "hold": 0.6,
+      "sfx": "none",
+      "motion": "push"
+    },
+    {
+      "id": "shot-14",
+      "scene_id": "s3",
+      "page": 3,
+      "panel": 3,
+      "speaker": "Кучер",
+      "text": "Школа в Альтдорфе. Затем инквизиторий. А дальше — назначение.",
+      "hold": 0.8,
+      "sfx": "none",
+      "motion": "still"
+    },
+    {
+      "id": "shot-15",
+      "scene_id": "s3",
+      "page": 3,
+      "panel": 4,
+      "speaker": "Джек",
+      "text": "Я тоже видел культистов. Заглянул не в ту дверь…",
+      "hold": 0.6,
+      "sfx": "none",
+      "motion": "left"
+    },
+    {
+      "id": "shot-16",
+      "scene_id": "s3",
+      "page": 3,
+      "panel": 4,
+      "speaker": "Кучер",
+      "text": "Постой. Расскажи подробнее.",
+      "hold": 0.8,
+      "sfx": "sting",
+      "motion": "right"
+    },
+    {
+      "id": "shot-17",
+      "scene_id": "s3",
+      "page": 3,
+      "panel": 5,
+      "speaker": "Кучер",
+      "text": "Учиться тебе следовало лет двадцать пять назад.",
+      "hold": 0.9,
+      "sfx": "sting",
+      "motion": "right"
+    },
+    {
+      "id": "shot-18",
+      "scene_id": "s3",
+      "page": 3,
+      "panel": 6,
+      "speaker": "Пиппин",
+      "text": "Как прошло?",
+      "hold": 0.6,
+      "sfx": "none",
+      "motion": "left"
+    },
+    {
+      "id": "shot-19",
+      "scene_id": "s3",
+      "page": 3,
+      "panel": 6,
+      "speaker": "Джек",
+      "text": "Опоздал. На двадцать пять лет.",
+      "hold": 1.2,
+      "sfx": "none",
+      "motion": "push"
+    },
+    {
+      "id": "shot-20",
+      "scene_id": "s4",
+      "page": 7,
+      "panel": 2,
+      "speaker": "Архивариус",
+      "text": "Джек, есть предложение. Заодно заработаешь на обед.",
+      "hold": 0.6,
+      "sfx": "coin",
+      "motion": "left"
+    },
+    {
+      "id": "shot-21",
+      "scene_id": "s4",
+      "page": 7,
+      "panel": 3,
+      "speaker": "Архивариус",
+      "text": "Людям нужны письма и документы. Читать они не умеют. А я умею.",
+      "hold": 0.7,
+      "sfx": "none",
+      "motion": "push"
+    },
+    {
+      "id": "shot-22",
+      "scene_id": "s4",
+      "page": 7,
+      "panel": 4,
+      "speaker": "Архивариус",
+      "text": "Пиппин нарисует объявление. Ты приведёшь клиентов — получишь долю.",
+      "hold": 0.7,
+      "sfx": "none",
+      "motion": "right"
+    },
+    {
+      "id": "shot-23",
+      "scene_id": "s4",
+      "page": 7,
+      "panel": 5,
+      "speaker": "Джек",
+      "text": "Только без лишнего внимания.",
+      "hold": 0.6,
+      "sfx": "none",
+      "motion": "left"
+    },
+    {
+      "id": "shot-24",
+      "scene_id": "s4",
+      "page": 7,
+      "panel": 5,
+      "speaker": "Архивариус",
+      "text": "Внимание — твой постоянный спутник.",
+      "hold": 0.8,
+      "sfx": "none",
+      "motion": "right"
+    },
+    {
+      "id": "shot-25",
+      "scene_id": "s4",
+      "page": 7,
+      "panel": 6,
+      "speaker": "Джек",
+      "text": "С двумя гробами? Тематическая повозка.",
+      "hold": 1.2,
+      "sfx": "sting",
+      "motion": "pull"
+    },
+    {
+      "id": "shot-26",
+      "scene_id": "s5",
+      "page": 12,
+      "panel": 2,
+      "speaker": "Нарратор",
+      "text": "Франц продал кинжал и жилетку. Защиты стало меньше, надежд — больше.",
+      "hold": 0.6,
+      "sfx": "coin",
+      "motion": "push"
+    },
+    {
+      "id": "shot-27",
+      "scene_id": "s5",
+      "page": 12,
+      "panel": 3,
+      "speaker": "Франц",
+      "text": "А запрещённый товар? За пять медяков?",
+      "hold": 0.7,
+      "sfx": "coin",
+      "motion": "left"
+    },
+    {
+      "id": "shot-28",
+      "scene_id": "s5",
+      "page": 12,
+      "panel": 3,
+      "speaker": "Торговец",
+      "text": "Я останусь честным торговцем.",
+      "hold": 0.8,
+      "sfx": "none",
+      "motion": "right"
+    },
+    {
+      "id": "shot-29",
+      "scene_id": "s5",
+      "page": 12,
+      "panel": 4,
+      "speaker": "Торговец",
+      "text": "Богатый квартал обносят. Я скупаю — потом перепродаю.",
+      "hold": 0.7,
+      "sfx": "none",
+      "motion": "push"
+    },
+    {
+      "id": "shot-30",
+      "scene_id": "s5",
+      "page": 12,
+      "panel": 5,
+      "speaker": "Франц",
+      "text": "У меня друг со шрамом. Намечается дело. Десять золотых выгоды!",
+      "hold": 0.6,
+      "sfx": "none",
+      "motion": "right"
+    },
+    {
+      "id": "shot-31",
+      "scene_id": "s5",
+      "page": 12,
+      "panel": 6,
+      "speaker": "Торговец",
+      "text": "Мы честные торговцы. Ремесленники.",
+      "hold": 1.2,
+      "sfx": "sting",
+      "motion": "still"
+    },
+    {
+      "id": "shot-32",
+      "scene_id": "s6",
+      "page": 14,
+      "panel": 6,
+      "speaker": "Пиппин",
+      "text": "Я лучше подожду Джека здесь.",
+      "hold": 1.0,
+      "sfx": "none",
+      "motion": "pull"
+    },
+    {
+      "id": "shot-33",
+      "scene_id": "s6",
+      "page": 18,
+      "panel": 1,
+      "speaker": "Торговец",
+      "text": "Не замечаешь — получаешь деньги. Замечаешь — получаешь нож.",
+      "hold": 0.8,
+      "sfx": "none",
+      "motion": "push"
+    },
+    {
+      "id": "shot-34",
+      "scene_id": "s6",
+      "page": 18,
+      "panel": 2,
+      "speaker": "Архивариус",
+      "text": "Ничего не вижу.",
+      "hold": 1.2,
+      "sfx": "none",
+      "motion": "push"
+    },
+    {
+      "id": "shot-35",
+      "scene_id": "s6",
+      "page": 18,
+      "panel": 3,
+      "speaker": "Нарратор",
+      "text": "За деньги архивариус согласилась не замечать нужные корабли.",
+      "hold": 0.6,
+      "sfx": "none",
+      "motion": "right"
+    },
+    {
+      "id": "shot-36",
+      "scene_id": "s6",
+      "page": 18,
+      "panel": 4,
+      "speaker": "Торговец",
+      "text": "Предыдущий канцелярист пропал. Из-за него сорвалась поставка.",
+      "hold": 0.7,
+      "sfx": "none",
+      "motion": "push"
+    },
+    {
+      "id": "shot-37",
+      "scene_id": "s6",
+      "page": 18,
+      "panel": 5,
+      "speaker": "Архивариус",
+      "text": "Предпочитаю аванс.",
+      "hold": 0.7,
+      "sfx": "none",
+      "motion": "left"
+    },
+    {
+      "id": "shot-38",
+      "scene_id": "s6",
+      "page": 18,
+      "panel": 5,
+      "speaker": "Торговец",
+      "text": "Десять серебряных сейчас.",
+      "hold": 1.0,
+      "sfx": "coin",
+      "motion": "right"
+    },
+    {
+      "id": "shot-39",
+      "scene_id": "s7",
+      "page": 19,
+      "panel": 6,
+      "speaker": "Джек",
+      "text": "Меня больше интересует вторая часть плана.",
+      "hold": 0.7,
+      "sfx": "none",
+      "motion": "pull"
+    },
+    {
+      "id": "shot-40",
+      "scene_id": "s7",
+      "page": 20,
+      "panel": 1,
+      "speaker": "Джек",
+      "text": "Сначала переоденемся. Потом дадим архивариусу знак.",
+      "hold": 0.7,
+      "sfx": "none",
+      "motion": "left"
+    },
+    {
+      "id": "shot-41",
+      "scene_id": "s7",
+      "page": 20,
+      "panel": 2,
+      "speaker": "Попов",
+      "text": "И ты называешь это планом?",
+      "hold": 0.6,
+      "sfx": "none",
+      "motion": "push"
+    },
+    {
+      "id": "shot-42",
+      "scene_id": "s7",
+      "page": 20,
+      "panel": 2,
+      "speaker": "Джек",
+      "text": "Пиппин поможет устроить представление.",
+      "hold": 0.7,
+      "sfx": "none",
+      "motion": "right"
+    },
+    {
+      "id": "shot-43",
+      "scene_id": "s7",
+      "page": 20,
+      "panel": 3,
+      "speaker": "Попов",
+      "text": "Погоди. А где Пиппин?",
+      "hold": 1.4,
+      "sfx": "sting",
+      "motion": "still"
+    },
+    {
+      "id": "shot-44",
+      "scene_id": "s7",
+      "page": 20,
+      "panel": 4,
+      "speaker": "Пиппин",
+      "text": "",
+      "hold": 3.0,
+      "sfx": "none",
+      "motion": "pull"
+    },
+    {
+      "id": "shot-45",
+      "scene_id": "s7",
+      "page": 20,
+      "panel": 5,
+      "speaker": "Пиппин",
+      "text": "Не будите во мне ярость.",
+      "hold": 1.4,
+      "sfx": "none",
+      "motion": "push"
+    }
+  ]
+}

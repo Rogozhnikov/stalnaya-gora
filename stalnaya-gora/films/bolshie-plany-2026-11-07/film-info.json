@@ -1,0 +1,17 @@
+{
+  "title": "Стальная гора: большие планы",
+  "duration_seconds": 196.12500000000003,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "shot_count": 47,
+  "dialogue_shots": 45,
+  "scenes": 7,
+  "audio": "Russian synthetic voices Pavel/Irina; original procedural music and effects",
+  "style": "motion comic: camera movement and editing of drawn panels",
+  "audio_peak_before_limiter": 0.8430367112159729,
+  "audio_peak_after_limiter": 0.8430367112159729,
+  "file_bytes": 28070384
+}

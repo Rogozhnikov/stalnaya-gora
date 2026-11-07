@@ -1,0 +1,18 @@
+{
+  "decode_errors": 0,
+  "duration_seconds": 196.13,
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 24.0,
+  "audio_sample_rate": 48000,
+  "audio_channels": 2,
+  "audio_peak": 0.8089599609375,
+  "audio_dc_mean": [
+    4.4653077831637054e-06,
+    3.1537197186786302e-06
+  ],
+  "audio_clipped_samples": 0,
+  "sha256": "db6cfbaa4553e3c775adfc8dd42c83a8703ab8ee64f1430ebc65e0604a0887ab"
+}
