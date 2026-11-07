@@ -4,13 +4,15 @@
 
 ## Скачать
 
-| Выпуск | Обнаружено страниц | Размер | PDF |
-| --- | ---: | ---: | --- |
-| №1 | 20 | 367 083 653 байта | [Скачать №1](https://github.com/Rogozhnikov/stalnaya-gora/releases/download/v1.0-source/Stalnaya-Gora-1.pdf) |
-| №2 | 15 | 183 821 724 байта | [Скачать №2](https://github.com/Rogozhnikov/stalnaya-gora/releases/download/v1.0-source/Stalnaya-Gora-2.pdf) |
-| №3 | 20 | 258 632 904 байта | [Скачать №3](https://github.com/Rogozhnikov/stalnaya-gora/releases/download/v1.0-source/Stalnaya-Gora-3.pdf) |
+[Скачать все три PDF одним архивом TAR.XZ (215 МБ)](https://github.com/Rogozhnikov/stalnaya-gora/releases/download/v1.0-source/Stalnaya-Gora-originals.tar.xz)
 
-Читать в порядке №1 → №2 → №3. Загруженные файлы побайтово соответствуют предоставленным оригиналам; в именах файлов для скачивания убран символ №.
+| Выпуск | Обнаружено страниц | Размер исходного PDF | Файл в архиве |
+| --- | ---: | ---: | --- |
+| №1 | 20 | 367 083 653 байта | Stalnaya-Gora-1.pdf |
+| №2 | 15 | 183 821 724 байта | Stalnaya-Gora-2.pdf |
+| №3 | 20 | 258 632 904 байта | Stalnaya-Gora-3.pdf |
+
+Распакуйте TAR.XZ средствами Windows 11, 7-Zip или командой `tar -xf Stalnaya-Gora-originals.tar.xz`. Читать в порядке №1 → №2 → №3. PDF внутри архива побайтово соответствуют предоставленным оригиналам; это проверено по SHA-256. В именах файлов убран символ №. Сжатие архива уменьшило общий объём с 810 до 215 МБ без изменения PDF.
 
 ## Состояние исходников
 
