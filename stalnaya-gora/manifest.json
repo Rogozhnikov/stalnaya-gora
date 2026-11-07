@@ -1,35 +1,38 @@
 [
   {
     "issue": 1,
-    "filename": "Stalnaya-Gora-№1.pdf",
-    "pages_detected": 20,
-    "size_bytes": 367083653,
-    "sha256": "92adea6e04590eb5b8f60d31068ecefa3a353891ee7ac4b5af20e0513ab1b9b0",
-    "pdf_header_offset": 786432,
-    "status": "damaged_source",
-    "archive_member": "Stalnaya-Gora-1.pdf",
-    "archive_url": "https://github.com/Rogozhnikov/stalnaya-gora/releases/download/v1.0-source/Stalnaya-Gora-originals.tar.xz"
+    "pages": 20,
+    "source_filename": "Stalnaya-Gora-№1.pdf",
+    "source_size_bytes": 95803604,
+    "source_sha256": "b3bbbb0f9cadc2208da3234d68928adf3ad8f71d1b12e9e954aef4164a1d2fb5",
+    "published_file": "pdf/Stalnaya-Gora-1.pdf",
+    "published_size_bytes": 15565717,
+    "published_sha256": "d273846f93c219adeaa0874c22ef5a52ce8528a4f0c65513026060f94e90f1de",
+    "status": "verified",
+    "optimization": "JPEG quality 92, 4:4:4, original image resolution; page size and order preserved"
   },
   {
     "issue": 2,
-    "filename": "Stalnaya-Gora-№2.pdf",
-    "pages_detected": 15,
-    "size_bytes": 183821724,
-    "sha256": "15bd2b715a4c0d644c4c7595cc6afbe40e76af2185951c457f36614c476dbe12",
-    "pdf_header_offset": 524288,
-    "status": "damaged_source",
-    "archive_member": "Stalnaya-Gora-2.pdf",
-    "archive_url": "https://github.com/Rogozhnikov/stalnaya-gora/releases/download/v1.0-source/Stalnaya-Gora-originals.tar.xz"
+    "pages": 15,
+    "source_filename": "Stalnaya-Gora-№2.pdf",
+    "source_size_bytes": 71710784,
+    "source_sha256": "b4a26c711b8b6938f02ce68cc356121415b50cc133e8610406dff6803f083b84",
+    "published_file": "pdf/Stalnaya-Gora-2.pdf",
+    "published_size_bytes": 11047853,
+    "published_sha256": "4cf9929088b7b1786f800fb5ba20ac28544e03ef102e305eeffc41fde0fb03cb",
+    "status": "verified",
+    "optimization": "JPEG quality 92, 4:4:4, original image resolution; page size and order preserved"
   },
   {
     "issue": 3,
-    "filename": "Stalnaya-Gora-№3.pdf",
-    "pages_detected": 20,
-    "size_bytes": 258632904,
-    "sha256": "14a77b4f7541d3390a19693e4301877e8b9ca0cb88f0470dd5ed697f06b3d185",
-    "pdf_header_offset": 524288,
-    "status": "damaged_source",
-    "archive_member": "Stalnaya-Gora-3.pdf",
-    "archive_url": "https://github.com/Rogozhnikov/stalnaya-gora/releases/download/v1.0-source/Stalnaya-Gora-originals.tar.xz"
+    "pages": 20,
+    "source_filename": "Stalnaya-Gora-№3.pdf",
+    "source_size_bytes": 95631354,
+    "source_sha256": "aae50ba75b86ed15ae0125db68a1c7c2a78dc1c0fff04f4e42c0ae424ba02861",
+    "published_file": "pdf/Stalnaya-Gora-3.pdf",
+    "published_size_bytes": 14884490,
+    "published_sha256": "552885bea752cde13ed35a17dcdb1035a0baf0c08a8c3ea8eb42f320ea0e6db9",
+    "status": "verified",
+    "optimization": "JPEG quality 92, 4:4:4, original image resolution; page size and order preserved"
   }
 ]
