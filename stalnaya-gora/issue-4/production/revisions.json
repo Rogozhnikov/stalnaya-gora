@@ -1,0 +1,9 @@
+{
+  "generation_mode": "built-in image_gen",
+  "cover": "Portrait cover for СТАЛЬНАЯ ГОРА №4, Игра 07.11.2026. Established Jack, Popov and Pippin against a gothic port; painterly realism, cool city light, warm candlelight, ivory paper. Reference pages used for character consistency.",
+  "targeted_image_edits": [
+    {"page": 4, "change": "Remove the duplicate bent-over Popov in the final panel; preserve seated doctor, dialogue and all other panels."},
+    {"page": 9, "change": "Swap the question and reply panels above the final bedroom panel so Jack asks before Godfrey answers."},
+    {"page": 12, "change": "Remove Franz's brown vest from panels after its sale; retain ivory shirt and slate-blue cloak."}
+  ]
+}

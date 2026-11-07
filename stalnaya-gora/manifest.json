@@ -34,5 +34,18 @@
     "published_sha256": "552885bea752cde13ed35a17dcdb1035a0baf0c08a8c3ea8eb42f320ea0e6db9",
     "status": "verified",
     "optimization": "JPEG quality 92, 4:4:4, original image resolution; page size and order preserved"
+  },
+  {
+    "issue": 4,
+    "session_date": "2026-11-07",
+    "pages": 21,
+    "story_pages": 20,
+    "printed_pages": "56-75",
+    "published_file": "pdf/Stalnaya-Gora-4-2026-11-07.pdf",
+    "published_size_bytes": 18730229,
+    "published_sha256": "14c1058c8b64ac03745da6881304f38b8fa57418d68fa8054f366f93e0766c9b",
+    "status": "verified",
+    "creation": "Illustrated adaptation of supplied session transcript, built-in image generation",
+    "details": "issue-4/manifest.json"
   }
 ]

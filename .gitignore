@@ -1,2 +1,9 @@
 .tools/
 tmp/
+
+output/
+stalnaya-gora/issue-4/pages/
+stalnaya-gora/issue-4/cover.png
+stalnaya-gora/pdf/Stalnaya-Gora-4.pdf
+*.building.pdf
+*.building.cbz
