@@ -5,25 +5,70 @@
     "panels": [
       {
         "scene": "Wide medieval temple square at dusk. Beside the one-horse coffin cart loaded with food, Dr Popov, an elderly man with curly grey hair, a trimmed grey beard, round spectacles, a dark-green frock coat and a medical satchel spots two armed hirelings in plain leather coats peering around a notice board at the temple stairs. Center the watchers' sightline.",
-        "caption": "Еду у Годфри забрали. Теперь надо найти Пиппин.",
+        "caption": "У храма Сигмара.",
         "speaker": "Попов",
-        "line": "Сходи, проверь.",
-        "time": "0:06:29"
+        "line": "Джек, глянь, Пиппин в храме?",
+        "time": "0:06:29",
+        "art_key": "76-1",
+        "cast": [
+          "popov"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "76-4",
+        "cast": [],
+        "side": "auto",
+        "time": "0:05:31",
+        "scene": "Close side view from behind the notice board of two armed plain-clothed hirelings watching the distant church steps through a slit between the wood and stone. A sword hilt just shows under a sleeve.",
+        "caption": "Оба смотрели на ступени. От дверей храма их не было видно.",
+        "speaker": "",
+        "line": ""
+      },
+      {
+        "art_key": "76-5",
+        "cast": [
+          "jack",
+          "pippin"
+        ],
+        "side": "auto",
+        "time": "0:06:57",
+        "scene": "Jack has just entered the nave. Seen past his shoulder, the adult copper-haired halfling kneels at a side altar below a great carved hammer. Beeswax candles in the foreground. An intent, quiet moment.",
+        "caption": "",
+        "speaker": "",
+        "line": ""
       },
       {
         "scene": "Square, candlelit medieval temple interior. Pippin, a stout adult halfling woman of thirty with vivid copper curls, a round freckled face, green cape, ivory blouse and golden-brown leather bodice kneels praying at the altar; behind her Jack, a rugged 30-year-old man with tousled dark wavy hair, light stubble, worn brown leather coat and burgundy scarf leans down and gently lays a large hand on her shoulder. Center the quiet contact.",
         "caption": "",
         "speaker": "",
         "line": "",
-        "time": "0:07:19"
+        "time": "0:07:19",
+        "art_key": "76-2",
+        "cast": [
+          "pippin",
+          "jack"
+        ],
+        "side": "auto"
       },
       {
         "scene": "Square close two-shot in a candlelit medieval nave. Pippin, a stout adult halfling woman of thirty with vivid copper curls, a round freckled face, green cape, ivory blouse and golden-brown leather bodice recoils, her hand still gripping the small dagger she has snatched from her skirt. Its point sweeps past the cheek of Jack, a rugged 30-year-old man with tousled dark wavy hair, light stubble, worn brown leather coat and burgundy scarf; their startled eyes meet at center.",
-        "caption": "",
+        "caption": "Джек едва успел отшатнуться от кинжала.",
         "speaker": "Пиппин",
         "line": "Джек, ты что творишь?",
-        "time": "0:14:41"
+        "time": "0:14:41",
+        "art_key": "76-3",
+        "cast": [
+          "pippin",
+          "jack"
+        ],
+        "side": "auto"
       }
+    ],
+    "layout": [
+      1,
+      2,
+      2
     ]
   },
   {
@@ -34,23 +79,72 @@
         "scene": "Wide view across the medieval temple porch. Pippin, a stout adult halfling woman of thirty with vivid copper curls, a round freckled face, green cape, ivory blouse and golden-brown leather bodice pulls Jack, a rugged 30-year-old man with tousled dark wavy hair, light stubble, worn brown leather coat and burgundy scarf down to her height to whisper. Through a narrow gap between stone columns two armed hirelings in plain leather coats watch the steps from behind a notice board. Center her grip on his lapel.",
         "caption": "",
         "speaker": "Пиппин",
-        "line": "Помнишь наше дело в богатом квартале? Кое-кто очень недоволен, что мы его не выполнили.",
-        "time": "0:15:23"
+        "line": "Помнишь наше дело в богатом квартале? За нами пришли.",
+        "time": "0:15:23",
+        "art_key": "77-1",
+        "cast": [
+          "pippin",
+          "jack"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "77-4",
+        "cast": [
+          "jack"
+        ],
+        "side": "auto",
+        "time": "0:19:09",
+        "scene": "Inside the shadowed temple doorway, Jack peers out from behind the stone jamb at the two watchers across the street. Only Jack's face is visible in profile.",
+        "caption": "",
+        "speaker": "Попов",
+        "line": "Видишь, Джек? За доской стоят."
       },
       {
         "scene": "Square, under the medieval temple arch. Dr Popov, an elderly man with curly grey hair, a trimmed grey beard, round spectacles, a dark-green frock coat and a medical satchel spreads his plain wool overcloak at the center like a rug. Pippin, a stout adult halfling woman of thirty with vivid copper curls, a round freckled face, green cape, ivory blouse and golden-brown leather bodice watches him with relief and Jack, a rugged 30-year-old man with tousled dark wavy hair, light stubble, worn brown leather coat and burgundy scarf reaches to take the opposite edge.",
         "caption": "",
         "speaker": "Попов",
-        "line": "Смотри, я делаю фокус с исчезновением.",
-        "time": "0:19:46"
+        "line": "Стой. Смотри, фокус с исчезновением.",
+        "time": "0:19:46",
+        "art_key": "77-2",
+        "cast": [
+          "popov",
+          "pippin",
+          "jack"
+        ],
+        "side": "auto"
       },
       {
         "scene": "Square view down onto a medieval coffin cart. Jack, a rugged 30-year-old man with tousled dark wavy hair, light stubble, worn brown leather coat and burgundy scarf and Dr Popov, an elderly man with curly grey hair, a trimmed grey beard, round spectacles, a dark-green frock coat and a medical satchel lift a tightly rolled wool cloak into an open wooden coffin by its ends. The short adult woman inside is completely hidden. Two armed hirelings in plain leather coats still stare at the empty temple stairs, backs to the cart. Center the cloth bundle.",
-        "caption": "Наёмники остались у храма.",
+        "caption": "Тяжёленький вышел свёрток.",
+        "speaker": "",
+        "line": "",
+        "time": "0:22:10",
+        "art_key": "77-3",
+        "cast": [
+          "popov",
+          "jack"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "77-5",
+        "cast": [
+          "jack",
+          "popov"
+        ],
+        "side": "auto",
+        "time": "0:22:10",
+        "scene": "Two armed men still watch the steps with their backs to a departing horse cart. Jack drives and Popov rides next to him. The small covered bundle is inside the coffin among the goods. A dry comic reveal from the street.",
+        "caption": "",
         "speaker": "Джек",
-        "line": "Трогаем и везём еду.",
-        "time": "0:22:10"
+        "line": "Трогаем."
       }
+    ],
+    "layout": [
+      2,
+      1,
+      2
     ]
   },
   {
@@ -59,25 +153,56 @@
     "panels": [
       {
         "scene": "Wide medieval dock-office interior at dusk. the Archivist, a slim thirty-year-old woman with light-brown hair pinned up, round spectacles, ivory shirt and a dark-navy fur-trimmed velvet coat sits alone at a desk beneath a small riverside window. The hand guiding her quill trembles over a cargo ledger; straight piles of manifests await her seal. Center her fingers, with the dark river behind.",
-        "caption": "После встречи на пристани у архивариуса дрожит рука. Она разбирается в судовых накладных.",
+        "caption": "Тем временем в портовой конторе.",
         "speaker": "",
         "line": "",
-        "time": "0:12:50"
+        "time": "0:12:50",
+        "art_key": "78-1",
+        "cast": [
+          "archivist"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "78-4",
+        "cast": [
+          "archivist"
+        ],
+        "side": "auto",
+        "time": "0:13:05",
+        "scene": "Intimate insert of the archivist's ink-stained fingers flattening a curled cargo ledger, notations and an official wax seal. A quill touches down waveringly. Deep reflected port light.",
+        "caption": "Скоро ей назовут груз, который придётся пропустить. А рука до сих пор дрожит.",
+        "speaker": "",
+        "line": ""
       },
       {
         "scene": "Square, stone gateway of a medieval noble district. Klaus, a frail adult mutant with a gaunt pale feminine face, a third eye concealed by a dirty linen forehead bandage, worn burgundy doublet and floppy burgundy cap beneath a ragged dark hood makes his way downhill, turning the governor's seal on one finger. Two well-dressed adult burghers in high wool collars draw back against a wall. Center the ring and the face half hidden by the hood.",
-        "caption": "Клаусу поручили добиться, чтобы инквизиция покинула город.",
+        "caption": "Клаусу велено выжить инквизицию из города.",
         "speaker": "",
         "line": "",
-        "time": "0:25:24"
+        "time": "0:25:24",
+        "art_key": "78-2",
+        "cast": [
+          "klaus"
+        ],
+        "side": "auto"
       },
       {
         "scene": "Square, eye-level medieval harbour. Klaus, a frail adult mutant with a gaunt pale feminine face, a third eye concealed by a dirty linen forehead bandage, worn burgundy doublet and floppy burgundy cap beneath a ragged dark hood peers from the edge of a stone wall at an expensive enclosed carriage beside the Inquisition ship. Two armed witch-hunters in long dark coats guard the gangplank. Center the carriage and its reflection in the black water.",
-        "caption": "У трапа стоят двое. Для кого подали карету?",
+        "caption": "К самому трапу подали карету.",
         "speaker": "",
         "line": "",
-        "time": "0:29:06"
+        "time": "0:29:06",
+        "art_key": "78-3",
+        "cast": [
+          "klaus"
+        ],
+        "side": "auto"
       }
+    ],
+    "layout": [
+      2,
+      2
     ]
   },
   {
@@ -86,25 +211,73 @@
     "panels": [
       {
         "scene": "Wide medieval river vision, a single narrow wooden skiff lost on black, glass-still water that fills the frame to every edge. Franz Dik, a 35-year-old man with short wet sandy hair, narrow angular face and small neat light-brown moustache, barefoot in ragged linen drawers sits shivering opposite a cloudy-eyed elderly boatman in a worn dark wool tunic. The boatman whispers to the empty space past Franz. Center the little boat in the darkness.",
-        "caption": "Последнее, что помнил Франц, — нож у горла и холодная вода Авера.",
+        "caption": "Франц помнил нож у горла. Потом была река.",
         "speaker": "",
         "line": "",
-        "time": "0:31:00"
+        "time": "0:31:00",
+        "art_key": "79-1",
+        "cast": [
+          "franz",
+          "boatman"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "79-4",
+        "cast": [
+          "franz",
+          "boatman"
+        ],
+        "side": "auto",
+        "time": "0:31:44",
+        "scene": "Seat-height reverse shot inside a tiny skiff, Franz cupping his ear, opposite the blurred old man whose lips barely move. They float on mirror-black water in total darkness, a restrained, disconcerting dream.",
+        "caption": "Даже сам Франц не услышал своего голоса.",
+        "speaker": "Франц",
+        "line": "Дед, можно погромче?"
       },
       {
         "scene": "Square eye-level close-up in the medieval skiff. Center a cloudy-eyed elderly boatman in a worn dark wool tunic, looking straight through the person opposite; his lips barely part. In the foreground Franz Dik, a 35-year-old man with short wet sandy hair, narrow angular face and small neat light-brown moustache, barefoot in ragged linen drawers watches his face, waiting for his eyes to focus.",
         "caption": "",
         "speaker": "Старик",
-        "line": "Я понял, что начал забывать своё имя. Хотя Ванхель предупреждал меня.",
-        "time": "0:33:13"
+        "line": "Я начал забывать своё имя. Ванхель ведь предупреждал…",
+        "time": "0:33:13",
+        "art_key": "79-2",
+        "cast": [
+          "boatman",
+          "franz"
+        ],
+        "side": "auto"
       },
       {
         "scene": "Square view across the gunwale of a medieval wooden skiff sinking level into black water. Water wells up through a small hole between the feet of Franz Dik, a 35-year-old man with short wet sandy hair, narrow angular face and small neat light-brown moustache, barefoot in ragged linen drawers; he looks down at it. a cloudy-eyed elderly boatman in a worn dark wool tunic stays seated opposite, perfectly calm. Center the welling water.",
         "caption": "",
         "speaker": "Старик",
         "line": "Лодка дала течь.",
-        "time": "0:33:29"
+        "time": "0:33:29",
+        "art_key": "79-3",
+        "cast": [
+          "boatman",
+          "franz"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "79-5",
+        "cast": [
+          "franz"
+        ],
+        "side": "auto",
+        "time": "0:33:54",
+        "scene": "Underwater angle as the little skiff disappears into black water, one pale open hand rising through a line of bubbles. The old man's silhouette is barely traceable above the ripples. No sea monsters, no shore.",
+        "caption": "",
+        "speaker": "",
+        "line": ""
       }
+    ],
+    "layout": [
+      1,
+      2,
+      2
     ]
   },
   {
@@ -116,22 +289,66 @@
         "caption": "Франц открыл глаза на берегу. Ноги его не держали.",
         "speaker": "",
         "line": "",
-        "time": "0:35:38"
+        "time": "0:35:38",
+        "art_key": "80-1",
+        "cast": [
+          "franz"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "80-4",
+        "cast": [
+          "franz"
+        ],
+        "side": "auto",
+        "time": "0:38:29",
+        "scene": "Franz, shivering in ragged linen on the riverbank, tries to drape a strip of moss on his bare shoulder. It falls apart in his hands. Close and matter of fact, fir trunks behind.",
+        "caption": "",
+        "speaker": "Франц",
+        "line": "Одежду сделаю. Из мха."
       },
       {
         "scene": "Square under low branches on a medieval riverbank at night. Franz Dik, a 35-year-old man with short wet sandy hair, narrow angular face and small neat light-brown moustache, barefoot in ragged linen drawers crouches, muddy moss slipping from his shoulder as he presses an ear toward a howl in the firs. At frame center one hand grasps the lowest branch of a tree.",
-        "caption": "Совы в этом лесу как-то странно выли.",
+        "caption": "Из чащи донёсся вой.",
         "speaker": "Франц",
         "line": "Я сам стану совой.",
-        "time": "0:43:03"
+        "time": "0:43:03",
+        "art_key": "80-2",
+        "cast": [
+          "franz"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "80-5",
+        "cast": [
+          "franz"
+        ],
+        "side": "auto",
+        "time": "0:43:55",
+        "scene": "Under the lowest bough, a wolf's muzzle comes into focus. Above it Franz's muddy bare foot slips off the bark as he hauls himself onto a branch. The wolf stays on the forest floor.",
+        "caption": "",
+        "speaker": "",
+        "line": ""
       },
       {
         "scene": "Square from up among fir branches in a medieval riverside forest. Franz Dik, a 35-year-old man with short wet sandy hair, narrow angular face and small neat light-brown moustache, barefoot in ragged linen drawers lies belly down along a branch, nearly spent. Below, a large grey wolf tips its snout up to him and the pack circles the trunk. At the far edge of the woods one warm speck of light shines. Center Franz's eyes turned toward it.",
-        "caption": "Под деревом собралась стая. За верхушками дрожал огонёк.",
+        "caption": "Снизу обступили волки. А за деревьями всё ещё горел огонёк.",
         "speaker": "",
         "line": "",
-        "time": "0:44:36"
+        "time": "0:44:36",
+        "art_key": "80-3",
+        "cast": [
+          "franz"
+        ],
+        "side": "auto"
       }
+    ],
+    "layout": [
+      2,
+      2,
+      1
     ]
   },
   {
@@ -140,25 +357,71 @@
     "panels": [
       {
         "scene": "Wide medieval quay at dusk. Jack, a rugged 30-year-old man with tousled dark wavy hair, light stubble, worn brown leather coat and burgundy scarf drives the open one-horse cart past Klaus, a frail adult mutant with a gaunt pale feminine face, a third eye concealed by a dirty linen forehead bandage, worn burgundy doublet and floppy burgundy cap beneath a ragged dark hood, who creeps toward the Inquisition ship and turns his hooded face away. The cart carries a closed parcel of food and a wool bundle in an open coffin. Center their paths briefly crossing.",
-        "caption": "Клаус узнал Джека. Джек увидел только портового бродягу.",
+        "caption": "Клаус узнал Джека. Джек проехал мимо.",
         "speaker": "",
         "line": "",
-        "time": "0:49:29"
+        "time": "0:49:29",
+        "art_key": "81-1",
+        "cast": [
+          "jack",
+          "klaus"
+        ],
+        "side": "auto"
       },
       {
         "scene": "Square inside a medieval harbour office by the stairs. portmaster Grant, an older heavyset man in a rich burgundy robe passes two small silver coins to Jack, a rugged 30-year-old man with tousled dark wavy hair, light stubble, worn brown leather coat and burgundy scarf, who sets the hot wrapped meal on the desk. Center the coins and Grant's tired, hungry face.",
-        "caption": "За ужин начальник порта отсчитал два серебряка.",
-        "speaker": "Джек",
-        "line": "Завтра в семь, как обычно.",
-        "time": "0:53:01"
+        "caption": "",
+        "speaker": "Грант",
+        "line": "Вот тебе два серебряка.",
+        "time": "0:52:39",
+        "art_key": "81-2",
+        "cast": [
+          "jack",
+          "grant"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "81-4",
+        "cast": [
+          "archivist"
+        ],
+        "side": "auto",
+        "time": "0:56:46",
+        "scene": "The archivist, standing on the cart bed, prods a tightly wrapped wool roll in an open wooden coffin with the toe of her boot. The roll's ends are folded shut. Frame the boot and the nondescript roll in a close insert.",
+        "caption": "",
+        "speaker": "",
+        "line": ""
+      },
+      {
+        "art_key": "81-5",
+        "cast": [
+          "archivist"
+        ],
+        "side": "auto",
+        "time": "0:57:15",
+        "scene": "The startled adult archivist in her fur-trimmed cloak bends over the cart and looks toward the closed cloth bundle just below frame. Copper glints on her round spectacles. No other face.",
+        "caption": "",
+        "speaker": "Архивариус",
+        "line": "Пиппин, ты?"
       },
       {
         "scene": "Square from inside the medieval wooden cart. the Archivist, a slim thirty-year-old woman with light-brown hair pinned up, round spectacles, ivory shirt and a dark-navy fur-trimmed velvet coat gently prods the wool bundle in an open coffin with her boot. A curl of vivid copper hair escapes the edge of the wrap, hiding all of Pippin, a stout thirty-year-old halfling in her green cape, ivory blouse and golden-brown bodice. Center the archivist's startled look at the talking bundle.",
         "caption": "",
         "speaker": "Пиппин",
         "line": "Только не открывай меня.",
-        "time": "0:57:21"
+        "time": "0:57:21",
+        "art_key": "81-3",
+        "cast": [
+          "archivist"
+        ],
+        "side": "auto"
       }
+    ],
+    "layout": [
+      1,
+      2,
+      2
     ]
   },
   {
@@ -166,26 +429,70 @@
     "title": "Знак на двери",
     "panels": [
       {
+        "art_key": "82-4",
+        "cast": [
+          "klaus"
+        ],
+        "side": "auto",
+        "time": "1:03:30",
+        "scene": "The ragged hooded figure in Margosha's borrowed female skin addresses the coachman beside a glossy closed carriage at the harbor. Elegant wheel, damp cobbles. Coachman glances back skeptically.",
+        "caption": "",
+        "speaker": "Клаус",
+        "line": "Не покатаете ли даму?"
+      },
+      {
         "scene": "Wide, upper landing of the medieval port office, marked with a wooden ship's wheel above the closed door. Klaus, a frail adult mutant with a gaunt pale feminine face, a third eye concealed by a dirty linen forehead bandage, worn burgundy doublet and floppy burgundy cap beneath a ragged dark hood holds up one nicked fingertip, about to trace the star of Chaos on the weathered oak. The Inquisition ship is visible beyond the railing. Center the few first strokes, most of the door still blank.",
-        "caption": "Клаус решил оставить для инквизитора улику на двери начальника порта.",
+        "caption": "Знак на двери должен был привлечь инквизитора.",
         "speaker": "Клаус",
         "line": "План железный, как часы.",
-        "time": "1:08:59"
+        "time": "1:08:59",
+        "art_key": "82-1",
+        "cast": [
+          "klaus"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "82-5",
+        "cast": [
+          "klaus"
+        ],
+        "side": "auto",
+        "time": "1:09:13",
+        "scene": "A furtive close shot of the hooded figure raising one bloodstained fingertip toward blank weathered oak, a medieval door latch at the edge. The finger has not yet touched the wood.",
+        "caption": "Он представил звезду Хаоса. Оставалось её нарисовать.",
+        "speaker": "",
+        "line": ""
       },
       {
         "scene": "Square detail on the same medieval oak door. Center the shapeless red smear, its strokes dragged down by slipping fingers. Klaus, a frail adult mutant with a gaunt pale feminine face, a third eye concealed by a dirty linen forehead bandage, worn burgundy doublet and floppy burgundy cap beneath a ragged dark hood braces against the wall; a thin fold of the borrowed skin on his hand has pulled loose.",
-        "caption": "Чужая кожа потянулась за пальцами. На двери Гранта осталось пятно.",
+        "caption": "Чужая кожа отстала от пальца. Вместо звезды вышла клякса.",
         "speaker": "",
         "line": "",
-        "time": "1:11:20"
+        "time": "1:11:20",
+        "art_key": "82-2",
+        "cast": [
+          "klaus"
+        ],
+        "side": "auto"
       },
       {
         "scene": "Square midnight exterior of a solitary medieval log cottage deep in fir woods, a chopping block and empty pen outside. Franz Dik, a 35-year-old man with short wet sandy hair, narrow angular face and small neat light-brown moustache, barefoot in ragged linen drawers, muddy and using fir boughs for cover, peers in under a half-drawn curtain. Center his eyes level with the thin strip of warm window light.",
-        "caption": "Когда волки ушли, Франц добрался до огонька. Что-то внутри сжалось ещё на подходе.",
+        "caption": "Когда волки ушли, Франц пополз на свет.",
         "speaker": "",
         "line": "",
-        "time": "1:19:30"
+        "time": "1:19:30",
+        "art_key": "82-3",
+        "cast": [
+          "franz"
+        ],
+        "side": "auto"
       }
+    ],
+    "layout": [
+      2,
+      2,
+      1
     ]
   },
   {
@@ -194,25 +501,57 @@
     "panels": [
       {
         "scene": "Wide low view along the wall of a medieval log cottage in a black fir forest. Franz Dik, a 35-year-old man with short damp sandy hair, a narrow angular face, a small neat light-brown moustache and ragged linen drawers, barefoot and muddy, crouches just below its lit window. He has raised one hand into a narrow stripe of lamplight and stares as its fingers grow unnaturally long. Discarded fir boughs mask his lower body. Concentrate on a single hand, anatomically five fingers.",
-        "caption": "У освещённого окна Франц заметил, как вытягиваются его пальцы.",
+        "caption": "У окна Франц наконец разглядел свои пальцы. Они вытянулись.",
         "speaker": "",
         "line": "",
-        "time": "1:24:14"
+        "time": "1:24:14",
+        "art_key": "83-1",
+        "cast": [
+          "franz"
+        ],
+        "side": "auto"
       },
       {
         "scene": "Square view from outside a medieval cottage, through a small gap in a half-drawn curtain. the unnamed young adult woman, about twenty-five, beautiful, fine-boned, in a plain long dark woolen dress sits beside a low wooden bed. Under its cover lies a single human-shaped silhouette; its face, age and sex cannot be discerned. In the near foreground one wide eye of Franz Dik peers past the sill. He is a barefoot, muddy 35-year-old man with damp sandy hair, a narrow face, a neat light-brown moustache and ragged linen drawers, shown here in tightly cropped profile.",
-        "caption": "У кровати сидела женщина. Кто лежал под одеялом, Франц не разглядел.",
+        "caption": "Кто лежал под одеялом, было не видать.",
         "speaker": "",
         "line": "",
-        "time": "1:26:16"
+        "time": "1:26:16",
+        "art_key": "83-2",
+        "cast": [
+          "franz",
+          "hostess"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "83-4",
+        "cast": [
+          "franz"
+        ],
+        "side": "auto",
+        "time": "1:27:52",
+        "scene": "Franz's damp, muddy knuckles about to knock on the cottage door. A stripe of lamplight at his bare feet. A beat of hesitation, the forest very black behind him.",
+        "caption": "",
+        "speaker": "",
+        "line": ""
       },
       {
         "scene": "Square view from the doorstep of a medieval log cottage at night. Franz Dik, a 35-year-old man with short damp sandy hair, a narrow angular face, a small neat light-brown moustache and ragged linen drawers, barefoot and muddy, with visibly lengthened fingers, straightens his back, puts on an inviting smile and leans toward the still-closed plank door. Keep the composition chest-up. An amber crack of light outlines the door.",
-        "caption": "Из-за двери спросили, кто там.",
+        "caption": "«Кто там?» — спросили из-за двери.",
         "speaker": "Франц",
         "line": "Возможно… ваша судьба.",
-        "time": "1:28:41"
+        "time": "1:28:41",
+        "art_key": "83-3",
+        "cast": [
+          "franz"
+        ],
+        "side": "auto"
       }
+    ],
+    "layout": [
+      2,
+      2
     ]
   },
   {
@@ -221,25 +560,72 @@
     "panels": [
       {
         "scene": "Wide scene at the open door of a medieval forest cottage. the unnamed young adult woman, about twenty-five, beautiful, fine-boned, in a plain long dark woolen dress holds out a narrow inscribed fabric ribbon between both hands. Franz Dik, a 35-year-old man with short damp sandy hair, a narrow angular face, a small neat light-brown moustache and ragged linen drawers, barefoot and muddy, with unnaturally long fingers and shoulders drawn against the cold, waits on the threshold. The low lantern reveals her hand, his face and the ribbon, with no legible writing.",
-        "caption": "За еду и одежду хозяйка попросила услугу.",
+        "caption": "",
         "speaker": "Незнакомка",
-        "line": "Мне нужно закрыть тебе глаза, если ты хочешь войти.",
-        "time": "1:30:14"
+        "line": "Хочешь войти — придётся закрыть тебе глаза.",
+        "time": "1:30:14",
+        "art_key": "84-1",
+        "cast": [
+          "hostess",
+          "franz"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "84-4",
+        "cast": [
+          "hostess",
+          "franz"
+        ],
+        "side": "auto",
+        "time": "1:30:39",
+        "scene": "View from over Franz's shoulder as the hostess lifts a long plain linen blindfold and wraps it across his eyes. Her face is calm; only his temple and wet sandy hair are visible.",
+        "caption": "",
+        "speaker": "",
+        "line": ""
       },
       {
         "scene": "Square tight composition inside a medieval log cottage. the unnamed young adult woman, about twenty-five, beautiful, fine-boned, in a plain long dark woolen dress calmly seats Franz Dik, a 35-year-old man with short damp sandy hair, a narrow angular face, a small neat light-brown moustache and ragged linen drawers, barefoot and muddy on a plain wooden chair. A linen ribbon now covers his eyes; one of his unnaturally long hands instinctively reaches backward, while her slender fingers firmly encircle his other wrist. His tense shoulders and heel braced against the floor show the attempt to flee.",
-        "caption": "На пороге ему захотелось бежать. У хрупкой хозяйки оказалась железная хватка.",
+        "caption": "На пороге Франц передумал. Хозяйка держала крепко.",
         "speaker": "",
         "line": "",
-        "time": "1:33:04"
+        "time": "1:33:04",
+        "art_key": "84-2",
+        "cast": [
+          "hostess",
+          "franz"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "84-5",
+        "cast": [
+          "franz"
+        ],
+        "side": "auto",
+        "time": "1:38:58",
+        "scene": "At the cottage table, a blindfolded man's fingers feel the rim of a wooden bowl. Inside live beetles and larvae crawl over one another. Candle flame reflected on their shells. No text or exaggerated horror.",
+        "caption": "",
+        "speaker": "",
+        "line": ""
       },
       {
         "scene": "Square still-life and half portrait, medieval forest cottage, candlelight. Franz Dik, a barefoot 35-year-old man with short sandy hair, a narrow face, a small neat light-brown moustache and unnaturally long fingers, wearing ragged linen drawers, his eyes covered by an inscribed linen ribbon and his shoulders wrapped in a rough blanket grimaces with a beetle at his lips above a wooden bowl of living insects. Other beetles crawl across his abnormally long fingertips. Keep the focus on his mouth and the bowl; empty room behind him.",
-        "caption": "Под запахом благовоний проступала гниль. От голода Франц съел всё до хруста последнего жука.",
+        "caption": "Под зубами хрустнул хитин. Франц потянулся за следующей горстью.",
         "speaker": "",
         "line": "",
-        "time": "1:39:05"
+        "time": "1:39:05",
+        "art_key": "84-3",
+        "cast": [
+          "franz"
+        ],
+        "side": "auto"
       }
+    ],
+    "layout": [
+      1,
+      2,
+      2
     ]
   },
   {
@@ -248,25 +634,73 @@
     "panels": [
       {
         "scene": "Wide low-angle scene across the heavy oak counter of a crowded medieval port tavern. Godfrey, a broad older dwarf innkeeper with a bald crown, a thick grey beard and a leather apron leans toward his old friend Thorin, a stocky bare-chested adult dwarf with tattooed shoulders, a tall orange mohawk and a large axe on a leather back harness. The two roar with laughter, battered drinking mugs at hand. Their shoulders and faces dominate the composition; leave the background in dim, indistinct shadow.",
-        "caption": "У Годфри гостил старый друг Торин. За стойкой два дворфа вспоминали давние драки.",
+        "caption": "К Годфри приехал старый друг — Торин.",
         "speaker": "",
         "line": "",
-        "time": "1:44:14"
+        "time": "1:44:14",
+        "art_key": "85-1",
+        "cast": [
+          "godfrey",
+          "thorin"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "85-4",
+        "cast": [
+          "thorin",
+          "godfrey"
+        ],
+        "side": "auto",
+        "time": "1:44:52",
+        "scene": "A battered great axe rests within reach against a stout dwarf's chair. His tattooed muscular forearm clasps his old grey-bearded friend's forearm over two brimming tankards. Focus on familiarity, warm fireside.",
+        "caption": "",
+        "speaker": "",
+        "line": ""
       },
       {
         "scene": "Square composition at a corner table in a noisy medieval tavern, a sheltered pool of candlelight. Pippin, a very short adult halfling woman with copper curls, a round freckled face, a green travelling cloak, an ivory blouse and a brown leather bodice leans close and whispers to Jack, a rugged adult man with tousled dark wavy hair, stubble, a worn brown leather coat and a burgundy scarf, who inclines his head to listen. A chipped wooden bowl stands between them. Keep the quiet concentration in their eyes.",
-        "caption": "Пиппин рассказала, как бывшая заказчица пригрозила ей в бане: «Ходи и оглядывайся».",
-        "speaker": "",
-        "line": "",
-        "time": "1:50:23"
+        "caption": "",
+        "speaker": "Пиппин",
+        "line": "Помнишь нашу заказчицу? В бане она меня узнала.",
+        "time": "1:50:23",
+        "art_key": "85-2",
+        "cast": [
+          "pippin",
+          "jack"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "85-5",
+        "cast": [
+          "pippin"
+        ],
+        "side": "auto",
+        "time": "1:50:23",
+        "scene": "Brief flashback through bathhouse steam: an adult woman acutely leans in to whisper to an anxious adult copper-curled halfling. Both fully wrapped in opaque linen, no nudity. The threatening woman's half-lit mouth at right, halfling at left.",
+        "caption": "В бане, накануне.",
+        "speaker": "Заказчица",
+        "line": "Ходи и оглядывайся."
       },
       {
         "scene": "Square tight two-shot across the same medieval tavern table. Doctor Popov, an elderly man with swept-back grey hair, a short grey beard, wire spectacles and a dark green coat over a waistcoat lays a finger beside his mug as if proposing a perfectly reasonable course of action. Across from him Jack, a rugged adult man with tousled dark wavy hair, stubble, a worn brown leather coat and a burgundy scarf leans back and gives him a horrified look.",
-        "caption": "Попов предложил сдаться инквизиции. Под пытками их наверняка спросят о нанимателях.",
-        "speaker": "",
-        "line": "",
-        "time": "1:52:20"
+        "caption": "",
+        "speaker": "Попов",
+        "line": "А если сдаться инквизиции? Под пыткой нас и про нанимателей спросят.",
+        "time": "1:52:20",
+        "art_key": "85-3",
+        "cast": [
+          "popov",
+          "jack"
+        ],
+        "side": "auto"
       }
+    ],
+    "layout": [
+      1,
+      2,
+      2
     ]
   },
   {
@@ -275,25 +709,72 @@
     "panels": [
       {
         "scene": "Wide medieval tavern interior, a corner away from the bar. Jack, a rugged adult man with tousled dark wavy hair, stubble, a worn brown leather coat and a burgundy scarf bends toward Pippin, a very short adult halfling woman with copper curls, a round freckled face, a green travelling cloak, an ivory blouse and a brown leather bodice at their rough oak table, one hand indicating the shuttered window behind her. Doctor Popov, an elderly man with swept-back grey hair, a short grey beard, wire spectacles and a dark green coat over a waistcoat listens from the opposite bench with a raised eyebrow. The window, small hand of the halfling and urgent face of Jack form a triangle.",
-        "caption": "Джек предложил в два часа ночи пробраться в дом заказчицы. Окно предстояло открыть Пиппин.",
-        "speaker": "",
-        "line": "",
-        "time": "1:59:16"
+        "caption": "",
+        "speaker": "Джек",
+        "line": "Полезем в дом ночью. Ты сможешь открыть окно?",
+        "time": "1:59:16",
+        "art_key": "86-1",
+        "cast": [
+          "jack",
+          "pippin"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "86-4",
+        "cast": [
+          "pippin"
+        ],
+        "side": "auto",
+        "time": "2:02:24",
+        "scene": "Close on the adult halfling holding up a four-tined iron fork and squinting at it as though it were a locksmith's tool. A warm candle catches her freckles and copper hair.",
+        "caption": "",
+        "speaker": "Пиппин",
+        "line": "А если у вилки зубцы загнуть?"
       },
       {
         "scene": "Square close composition over a medieval oak tavern table. the female Archivist, an adult with light brown hair pinned in a bun, round spectacles and a fur-trimmed dark navy cloak sets her spectacles down and pulls the last plain metal hairpin from her bun. Pippin, a very short adult halfling woman with copper curls, a round freckled face, a green travelling cloak, an ivory blouse and a brown leather bodice looks up from an ordinary dinner fork as the pins land in a small pile in front of her. Loose curls fall across the Archivist's shoulder.",
-        "caption": "Пиппин хотела сделать отмычку из вилки. Архивариус протянула ей свои шпильки.",
+        "caption": "",
+        "speaker": "Архивариус",
+        "line": "Может, я тебе одолжу шпильку, Пиппин?",
+        "time": "2:03:19",
+        "art_key": "86-2",
+        "cast": [
+          "archivist",
+          "pippin"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "86-5",
+        "cast": [
+          "archivist"
+        ],
+        "side": "auto",
+        "time": "2:03:25",
+        "scene": "Close view of the archivist with her spectacles set on the table; loosened brown curls settle around her cheeks as the last metal hairpin slides free. A small sly smile toward Jack, just outside the shot.",
+        "caption": "",
         "speaker": "",
-        "line": "",
-        "time": "2:03:19"
+        "line": ""
       },
       {
         "scene": "Square intimate eye-level two-shot over a wooden medieval tavern table. the female Archivist, an adult with loose light brown curls, a fur-trimmed dark navy cloak and her round spectacles lying on the table blows a playful kiss across the small gap to Jack, a rugged adult man with tousled dark wavy hair, stubble, a worn brown leather coat and a burgundy scarf, who props his elbow on the tabletop and looks utterly smitten. A cluster of plain hairpins glints at the bottom edge.",
         "caption": "",
         "speaker": "Архивариус",
         "line": "Я в тебя верю, мой герой.",
-        "time": "2:05:49"
+        "time": "2:05:49",
+        "art_key": "86-3",
+        "cast": [
+          "archivist",
+          "jack"
+        ],
+        "side": "auto"
       }
+    ],
+    "layout": [
+      2,
+      1,
+      2
     ]
   },
   {
@@ -301,26 +782,75 @@
     "title": "Лекарство для Джека",
     "panels": [
       {
-        "scene": "Wide kinetic medieval tavern interior. Jack, a rugged adult man with tousled dark wavy hair, stubble, a worn brown leather coat and a burgundy scarf heaves the corner table up and away, empty wooden plates and cups tumbling onto the boards. At the heavy bar Godfrey, a broad older dwarf innkeeper with a bald crown, a thick grey beard and a leather apron locks eyes with him. The glare is more imposing than the crash; show the two adults in one coherent space.",
-        "caption": "Джек дождался, пока все доедят, и перевернул стол.",
+        "art_key": "87-4",
+        "cast": [
+          "jack"
+        ],
+        "side": "auto",
+        "time": "2:10:00",
+        "scene": "Jack, already gripping the underside of the tavern table, checks the empty wooden plates one by one. He is quite serious. Diners have pushed back their chairs.",
+        "caption": "",
         "speaker": "Джек",
-        "line": "Я просто был так рад твоему другу.",
-        "time": "2:10:29"
+        "line": "Все доели?"
+      },
+      {
+        "scene": "Wide kinetic medieval tavern interior. Jack, a rugged adult man with tousled dark wavy hair, stubble, a worn brown leather coat and a burgundy scarf heaves the corner table up and away, empty wooden plates and cups tumbling onto the boards. At the heavy bar Godfrey, a broad older dwarf innkeeper with a bald crown, a thick grey beard and a leather apron locks eyes with him. The glare is more imposing than the crash; show the two adults in one coherent space.",
+        "caption": "Посуда на столе ещё оставалась.",
+        "speaker": "Джек",
+        "line": "Годфри, я просто был так рад твоему другу.",
+        "time": "2:10:29",
+        "art_key": "87-1",
+        "cast": [
+          "jack",
+          "godfrey"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "87-5",
+        "cast": [
+          "godfrey",
+          "thorin"
+        ],
+        "side": "auto",
+        "time": "2:10:49",
+        "scene": "The broad grey-bearded innkeeper points sharply toward offscreen Jack. Beside him the huge orange-crested dwarf sets down his tankard and rises from his bench.",
+        "caption": "",
+        "speaker": "Годфри",
+        "line": "Торин, держи его!"
       },
       {
         "scene": "Square close-up at a medieval tavern. Thorin, a stocky bare-chested adult dwarf with tattooed shoulders, a tall orange mohawk and a large axe on a leather back harness restrains Jack, a rugged adult man with tousled dark wavy hair, stubble, a worn brown leather coat and a burgundy scarf with one sturdy arm and steadies his jaw. Doctor Popov, an elderly man with swept-back grey hair, a short grey beard, wire spectacles and a dark green coat over a waistcoat advances a single small berry between finger and thumb. Comic timing, a firm hold and a look of enormous indignation from Jack; the battleaxe stays strapped on Thorin's back.",
-        "caption": "Торин держал Джека, пока Попов кормил его ягодой.",
+        "caption": "",
         "speaker": "Попов",
-        "line": "Спокойно, спокойно. Всё скоро станет хорошо.",
-        "time": "2:12:18"
+        "line": "Спокойно. Всё скоро станет хорошо.",
+        "time": "2:12:18",
+        "art_key": "87-2",
+        "cast": [
+          "thorin",
+          "popov",
+          "jack"
+        ],
+        "side": "auto"
       },
       {
         "scene": "Square close shot beneath a medieval tavern table's former spot. Jack, a rugged adult man with tousled dark wavy hair, stubble, a worn brown leather coat and a burgundy scarf slumps on a bench, apparently asleep except for a conspiratorial wink toward Pippin, a very short adult halfling woman with copper curls, a round freckled face, a green travelling cloak, an ivory blouse and a brown leather bodice. Pippin meets the wink, a wooden cup lying overturned in the near foreground. Show no other faces.",
-        "caption": "Торин отпустил Джека. Пока доктор отвернулся, «больной» подмигнул Пиппин.",
+        "caption": "Когда Торин разжал руки, «больной» подмигнул Пиппин.",
         "speaker": "",
         "line": "",
-        "time": "2:13:47"
+        "time": "2:13:47",
+        "art_key": "87-3",
+        "cast": [
+          "jack",
+          "pippin"
+        ],
+        "side": "auto"
       }
+    ],
+    "layout": [
+      2,
+      2,
+      1
     ]
   },
   {
@@ -329,25 +859,69 @@
     "panels": [
       {
         "scene": "Wide medieval working quayside at night. Klaus, a frail adult mutant wearing Margosha's borrowed skin, with a gaunt pale feminine face, a third eye concealed beneath the borrowed skin and a dirty linen forehead bandage, a worn burgundy doublet and floppy burgundy cap beneath a ragged dark hood reaches a clerk's ledge outside the timber warehouses. A middle-aged male cargo clerk in a plain wool cap and ink-stained brown tunic stops writing in his ledger and recognizes the visitor. Ship silhouettes, stacked crates and an enclosure fence recede behind him.",
-        "caption": "В порту Клауса приняли за пропавшую Маргошу. За три дня с неё ждали выручку.",
+        "caption": "В порту Клауса узнали. Вернее, узнали чужое лицо.",
+        "speaker": "Портовый",
+        "line": "Маргоша! Три дня тебя не было. Где выручка?",
+        "time": "2:19:36",
+        "art_key": "88-1",
+        "cast": [
+          "klaus"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "88-4",
+        "cast": [
+          "klaus"
+        ],
+        "side": "auto",
+        "time": "2:20:48",
+        "scene": "Close cutaway at a dockside tally desk. Two worn copper coins lie on stained timber. A dock tough's heavy fingers scoop them away from a dirty hooded sleeve; cargo stacks blur beyond.",
+        "caption": "Писарь забрал оба медяка и показал, где искать сутенёров.",
         "speaker": "",
-        "line": "",
-        "time": "2:19:36"
+        "line": ""
       },
       {
         "scene": "Square scene behind a rough fence at the medieval docks. Klaus, a frail adult mutant wearing Margosha's borrowed skin, with a gaunt pale feminine face, a third eye concealed beneath the borrowed skin and a dirty linen forehead bandage, a worn burgundy doublet and floppy burgundy cap beneath a ragged dark hood sets three silver coins on a wooden table before two burly adult male bullies in battered medieval dockworkers' jerkins, one taller and broad-shouldered, the other thickset. The men bend over the coins instead of meeting the visitor's gaze; one broad hand is still held out for more. The enclosure and a small timber shed are visible through a gap.",
         "caption": "",
         "speaker": "Клаус",
-        "line": "Лаз есть в дом наместника. Можем немножечко озолотиться.",
-        "time": "2:24:41"
+        "line": "Есть лаз в дом наместника. Можем озолотиться.",
+        "time": "2:24:41",
+        "art_key": "88-2",
+        "cast": [
+          "klaus"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "88-5",
+        "cast": [
+          "klaus"
+        ],
+        "side": "auto",
+        "time": "2:26:30",
+        "scene": "Two burly dock extortionists empty a pouch and search its ragged hooded owner beside cargo sheds. Klaus, inside Margosha's guise, follows a hand reaching for his possessions with a cold sideways look.",
+        "caption": "",
+        "speaker": "",
+        "line": ""
       },
       {
         "scene": "Square low view inside a medieval dockyard enclosure. Klaus, a frail adult mutant wearing Margosha's borrowed skin, with a gaunt pale feminine face, a third eye concealed beneath the borrowed skin and a dirty linen forehead bandage, a worn burgundy doublet and floppy burgundy cap beneath a ragged dark hood crumples at the foot of the rough table; a small drawn dagger slips from one hand. two burly adult male bullies in battered medieval dockworkers' jerkins, one taller and broad-shouldered, the other thickset loom above, the thickset man lowering a cudgel. The forehead shows only ordinary skin and bandage beneath a dislodged hood. Loose coins on wet cobbles. No gore.",
-        "caption": "Они забрали всё. Клаус потянулся за кинжалом. Удар дубины погасил свет.",
+        "caption": "Клаус потянулся за кинжалом. Дубина оказалась быстрее.",
         "speaker": "",
         "line": "",
-        "time": "2:29:05"
+        "time": "2:29:05",
+        "art_key": "88-3",
+        "cast": [
+          "klaus"
+        ],
+        "side": "auto"
       }
+    ],
+    "layout": [
+      1,
+      2,
+      2
     ]
   },
   {
@@ -355,26 +929,72 @@
     "title": "Услуга",
     "panels": [
       {
+        "art_key": "89-4",
+        "cast": [
+          "franz"
+        ],
+        "side": "auto",
+        "time": "2:30:34",
+        "scene": "Blindfolded Franz at the edge of his seat in the cottage, the now-empty wooden dish pushed aside. He turns his head toward the sound of steps behind him.",
+        "caption": "",
+        "speaker": "",
+        "line": ""
+      },
+      {
         "scene": "Wide view across the table in a low medieval forest cottage, warm lamp halo in deep shadow. Franz Dik, a barefoot 35-year-old man with short sandy hair, a narrow face, a small neat light-brown moustache and unnaturally long fingers, wearing ragged linen drawers, his eyes covered by an inscribed linen ribbon and his shoulders wrapped in a rough blanket sits by an emptied wooden bowl dotted with insect shells. the unnamed young adult woman, about twenty-five, beautiful, fine-boned, in a plain long dark woolen dress leans down to his neck; two small fang points indent the skin. His long fingers loosen against the wood. Restraint, no open wound, no blood spray.",
-        "caption": "Франц уже собрался в город, когда хозяйка напомнила об уговоре.",
+        "caption": "",
         "speaker": "Незнакомка",
-        "line": "Ты не оказал ещё одну услугу.",
-        "time": "2:31:04"
+        "line": "Ты ещё не оказал мне услугу.",
+        "time": "2:31:04",
+        "art_key": "89-1",
+        "cast": [
+          "hostess",
+          "franz"
+        ],
+        "side": "auto"
       },
       {
         "scene": "Square portrait inside a medieval forest cottage. Franz Dik, a barefoot 35-year-old man with short sandy hair, a narrow face, a small neat light-brown moustache and unnaturally long fingers, wearing ragged linen drawers, his eyes covered by an inscribed linen ribbon and his shoulders wrapped in a rough blanket has slumped into his chair and can barely raise his chin; he manages one last hopeful smile. the unnamed young adult woman, about twenty-five, beautiful, fine-boned, in a plain long dark woolen dress, seen across his shoulder, draws back from his neck with a composed expression. The ribbon remains in place.",
-        "caption": "Хозяйка впилась Францу в шею. Когда она отступила, он едва мог говорить.",
+        "caption": "Едва шевеля губами, Франц попытался её соблазнить.",
         "speaker": "Незнакомка",
         "line": "В твоём состоянии это тебя убьёт.",
-        "time": "2:35:21"
+        "time": "2:35:21",
+        "art_key": "89-2",
+        "cast": [
+          "hostess",
+          "franz"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "89-5",
+        "cast": [
+          "franz"
+        ],
+        "side": "auto",
+        "time": "2:38:07",
+        "scene": "Close on Franz's pale face, blindfold fully covering his eyes. Sweat in the sandy hairline and above his thin moustache, chin tilting as he fails to lift his arm. One guttering candle in soft focus.",
+        "caption": "С повязкой он не видел, что сталось с рукой.",
+        "speaker": "",
+        "line": ""
       },
       {
         "scene": "Square ending inside the medieval forest cottage, close low angle. Franz Dik, a barefoot 35-year-old man with short sandy hair, a narrow face, a small neat light-brown moustache and unnaturally long fingers, wearing ragged linen drawers, his eyes covered by an inscribed linen ribbon and his shoulders wrapped in a rough blanket falls unconscious in the chair; show his single left hand with its long fingers slack at his side. His primary RIGHT arm has changed into limp leathery tendrils hanging over the other armrest, unmistakably attached to his right shoulder, no extra human right hand. the unnamed young adult woman, about twenty-five, beautiful, fine-boned, in a plain long dark woolen dress stands quietly at the edge of the lamplight.",
-        "caption": "На месте правой руки — щупальца. Франц потерял сознание.",
+        "caption": "Правая рука обернулась щупальцами. Франц потерял сознание.",
         "speaker": "Незнакомка",
-        "line": "Завтра ты забудешь о том, что ты меня видел.",
-        "time": "2:39:36"
+        "line": "Завтра ты забудешь, что видел меня.",
+        "time": "2:39:36",
+        "art_key": "89-3",
+        "cast": [
+          "franz"
+        ],
+        "side": "auto"
       }
+    ],
+    "layout": [
+      2,
+      1,
+      2
     ]
   },
   {
@@ -383,25 +1003,59 @@
     "panels": [
       {
         "scene": "Wide horizontal view of a medieval inn bedchamber at two in the morning. In the center Jack, a rugged adult human man with tousled dark wavy hair, light stubble, a worn brown leather coat and a burgundy scarf has sat bolt upright on a narrow bed, his coat thrown over his shoulders. Across a small gap Doctor Popov, an elderly man with curly grey hair, a trimmed grey beard, round spectacles, a dark green frock coat and a medical satchel beside him sleeps on the other bed, one hand curled beneath his head. A slit of greenish moonlight cuts across the bare floorboards.",
-        "caption": "В два часа ночи Джек проснулся как по команде.",
+        "caption": "Два часа ночи. Джек проснулся как по команде.",
         "speaker": "",
         "line": "",
-        "time": "2:44:13"
+        "time": "2:44:13",
+        "art_key": "90-1",
+        "cast": [
+          "jack"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "90-4",
+        "cast": [
+          "jack"
+        ],
+        "side": "auto",
+        "time": "2:44:23",
+        "scene": "Close-up of Jack's boots touching the floorboards beside the inn bed; he steadies one boot in his hand to avoid a creak. A blade of moonlight reaches the treads.",
+        "caption": "",
+        "speaker": "",
+        "line": ""
       },
       {
         "scene": "Square eye-level composition in the dark upstairs passage of a medieval inn. Pippin, a very short, sturdy adult halfling woman with copper curls, a rounded freckled face, a green travelling cloak, an ivory blouse and a brown leather bodice has just opened a wooden door a crack and peers sleepily into the corridor. Jack, a rugged adult human man with tousled dark wavy hair, light stubble, a worn brown leather coat and a burgundy scarf bends to her eye level like a conspirator. Center their two faces in the thin vertical strip of lamplight.",
         "caption": "",
         "speaker": "Джек",
         "line": "Пиппин, нам пора.",
-        "time": "2:45:11"
+        "time": "2:45:11",
+        "art_key": "90-2",
+        "cast": [
+          "jack",
+          "pippin"
+        ],
+        "side": "auto"
       },
       {
         "scene": "Square bedside view in a candlelit medieval inn. Slumped against a pillow in the center, Doctor Popov, an elderly man with curly grey hair, a trimmed grey beard, round spectacles, a dark green frock coat and a medical satchel beside him offers two small berries in his open palm. A bunched bedsheet hangs over the arm of Jack, a rugged adult human man with tousled dark wavy hair, light stubble, a worn brown leather coat and a burgundy scarf; Pippin, a very short, sturdy adult halfling woman with copper curls, a rounded freckled face, a green travelling cloak, an ivory blouse and a brown leather bodice reaches for her berry. The doctor's expression is that of a man diagnosing a familiar complaint.",
-        "caption": "Доктор остался в трактире.",
+        "caption": "Доктор решил остаться.",
         "speaker": "Попов",
         "line": "Кушайте по ягодке.",
-        "time": "3:12:58"
+        "time": "3:12:58",
+        "art_key": "90-3",
+        "cast": [
+          "popov",
+          "pippin",
+          "jack"
+        ],
+        "side": "auto"
       }
+    ],
+    "layout": [
+      2,
+      2
     ]
   },
   {
@@ -410,25 +1064,72 @@
     "panels": [
       {
         "scene": "Wide horizontal night view along a medieval port market street of closed timber shops. In the center Jack, a rugged adult human man with tousled dark wavy hair, light stubble, a worn brown leather coat and a burgundy scarf holds up the end of his flimsy bedsheet, weighing it in one hand while he studies the shuttered row of general stores. Pippin, a very short, sturdy adult halfling woman with copper curls, a rounded freckled face, a green travelling cloak, an ivory blouse and a brown leather bodice stands beside his knee looking up at him. Cold moonlight catches the pale folds of the linen.",
-        "caption": "На крышу богачей собирались лезть по простыням.",
+        "caption": "",
         "speaker": "Джек",
-        "line": "Верёвка звучит сильно лучше.",
-        "time": "3:17:10"
+        "line": "Верёвка звучит сильно лучше, чем простыня.",
+        "time": "3:17:10",
+        "art_key": "91-1",
+        "cast": [
+          "pippin",
+          "jack"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "91-4",
+        "cast": [
+          "pippin"
+        ],
+        "side": "auto",
+        "time": "3:17:34",
+        "scene": "By the unlit provision shop, focus on Pippin taking one plain steel hairpin from a fold in her green cloak. Her adult face is intent. Jack speaks from off-frame.",
+        "caption": "",
+        "speaker": "Джек",
+        "line": "А замочек вскроешь шпилькой."
       },
       {
         "scene": "Square close view at a closed medieval provision shop. Pippin, a very short, sturdy adult halfling woman with copper curls, a rounded freckled face, a green travelling cloak, an ivory blouse and a brown leather bodice crouches by the wooden door and lifts the latch as the old padlock finally gives under her hairpin. Behind her Jack, a rugged adult human man with tousled dark wavy hair, light stubble, a worn brown leather coat and a burgundy scarf looks down the empty street. Center the lock and Pippin's concentrated expression; worn timber and torchlight reflected on cobbles.",
         "caption": "",
         "speaker": "Джек",
-        "line": "Давай, да, аккуратненько.",
-        "time": "3:20:50"
+        "line": "Тихо, аккуратненько.",
+        "time": "3:20:50",
+        "art_key": "91-2",
+        "cast": [
+          "pippin",
+          "jack"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "91-5",
+        "cast": [
+          "jack"
+        ],
+        "side": "auto",
+        "time": "3:24:42",
+        "scene": "Jack keeps watch in a half-open shop doorway, whispering over his shoulder into the dark interior, cool moonlight just catching his scarf. A lamp hangs unlit nearby.",
+        "caption": "",
+        "speaker": "Джек",
+        "line": "Если включишь лампу, тебя тоже будет видно."
       },
       {
         "scene": "Square interior of a medieval general store, viewed from behind a counter at the height of a halfling. Pippin, a very short, sturdy adult halfling woman with copper curls, a rounded freckled face, a green travelling cloak, an ivory blouse and a brown leather bodice stands in the center lifting exactly two hefty hemp coils from wooden pegs. Jack, a rugged adult human man with tousled dark wavy hair, light stubble, a worn brown leather coat and a burgundy scarf is a dim lookout beside the nearly closed street door. Shelves of ordinary pottery recede into darkness.",
         "caption": "По десять метров каждая.",
         "speaker": "Пиппин",
-        "line": "Всё, беру две верёвки, и мы тогда выходим.",
-        "time": "3:26:07"
+        "line": "Беру две.",
+        "time": "3:26:07",
+        "art_key": "91-3",
+        "cast": [
+          "pippin",
+          "jack"
+        ],
+        "side": "auto"
       }
+    ],
+    "layout": [
+      2,
+      2,
+      1
     ]
   },
   {
@@ -440,22 +1141,70 @@
         "caption": "",
         "speaker": "Джек",
         "line": "Пиппин, помоги дедушке.",
-        "time": "3:30:59"
+        "time": "3:30:59",
+        "art_key": "92-1",
+        "cast": [
+          "pippin",
+          "jack"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "92-4",
+        "cast": [
+          "pippin"
+        ],
+        "side": "auto",
+        "time": "3:33:22",
+        "scene": "Pippin crouches on the far side of the fence and pulls a compact knot taut between the two coils of rope. Her freckled adult face catches moonlight.",
+        "caption": "",
+        "speaker": "Пиппин",
+        "line": "Я уже всё связала."
+      },
+      {
+        "art_key": "92-5",
+        "cast": [
+          "jack",
+          "pippin"
+        ],
+        "side": "auto",
+        "time": "3:36:31",
+        "scene": "From high beside the inaccessible stone chimney, steep view into the moonlit courtyard: Jack and the short halfling look up, the coiled rope lying uselessly at their feet. No rope reaches the roof.",
+        "caption": "",
+        "speaker": "",
+        "line": ""
       },
       {
         "scene": "Square extreme low-angle view up a narrow gap between medieval three-storey stone houses. In the center foreground Jack, a rugged adult human man with tousled dark wavy hair, light stubble, a worn brown leather coat and a burgundy scarf holds an unused rope loop and cranes his neck while Pippin, a very short, sturdy adult halfling woman with copper curls, a rounded freckled face, a green travelling cloak, an ivory blouse and a brown leather bodice steadies the rest of two knotted hemp ropes. Their gazes lead up to a small chimney almost lost against the moonlit sky.",
         "caption": "До трубы — десять метров вверх.",
         "speaker": "Джек",
         "line": "Почему мы взяли верёвку?",
-        "time": "3:39:32"
+        "time": "3:39:32",
+        "art_key": "92-2",
+        "cast": [
+          "jack",
+          "pippin"
+        ],
+        "side": "auto"
       },
       {
         "scene": "Square eye-level scene inside a narrow medieval passage. Jack, a rugged adult human man with tousled dark wavy hair, light stubble, a worn brown leather coat and a burgundy scarf has begun winding the unused rope back around his arm, his eyes now on the way out. Pippin, a very short, sturdy adult halfling woman with copper curls, a rounded freckled face, a green travelling cloak, an ivory blouse and a brown leather bodice peers around the corner toward the lamps outside the governor's residence. Center Jack's pensive half-smile and the first neat loop of rope.",
         "caption": "",
         "speaker": "Джек",
-        "line": "Слушай, а может быть, реально сходим просто к Марку?",
-        "time": "3:40:49"
+        "line": "А может, просто сходим к Марку?",
+        "time": "3:40:49",
+        "art_key": "92-3",
+        "cast": [
+          "jack",
+          "pippin"
+        ],
+        "side": "auto"
       }
+    ],
+    "layout": [
+      2,
+      2,
+      1
     ]
   },
   {
@@ -467,22 +1216,72 @@
         "caption": "",
         "speaker": "Джек",
         "line": "Тише, тише, мы к Марку.",
-        "time": "3:42:38"
+        "time": "3:42:38",
+        "art_key": "93-1",
+        "cast": [
+          "jack",
+          "pippin"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "93-4",
+        "cast": [
+          "jack",
+          "pippin"
+        ],
+        "side": "auto",
+        "time": "3:44:12",
+        "scene": "The two guards outside the manor exchange a look in the pause before Mark answers. Beyond their spearheads, Jack waits with his empty hands raised and Pippin at his side.",
+        "caption": "",
+        "speaker": "",
+        "line": ""
       },
       {
         "scene": "Square view through the open front door of a medieval governor's house. Mark, a composed adult human man with short dark hair greying at the temples, dressed in a plain charcoal wool town doublet over a linen shirt steps out into the torchlight. the tall lean adult gate guard in a dark green tabard over mail and an iron cap turns his head towards Mark, waiting for his word. Center Mark's brief appraising look as he decides whether to vouch for his visitors, who are outside the frame.",
         "caption": "",
         "speaker": "Марк",
         "line": "Ну да, это мои знакомые. Работали вместе.",
-        "time": "3:44:29"
+        "time": "3:44:29",
+        "art_key": "93-2",
+        "cast": [
+          "mark"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "93-5",
+        "cast": [
+          "mark",
+          "jack",
+          "pippin"
+        ],
+        "side": "auto",
+        "time": "3:44:58",
+        "scene": "Mark leads Jack and Pippin past blackened beams in the governor's entry hall. Their boots stir ash on ornate tiles, the light of the kitchen spills through a plain door ahead.",
+        "caption": "В холле пахло гарью. Марк повёл гостей на кухню.",
+        "speaker": "",
+        "line": ""
       },
       {
         "scene": "Square table-height shot in the medieval kitchen of a fire-damaged manor. Jack, a rugged adult human man with tousled dark wavy hair, light stubble, a worn brown leather coat and a burgundy scarf leans forward to confide across a plain table. Pippin, a very short, sturdy adult halfling woman with copper curls, a rounded freckled face, a green travelling cloak, an ivory blouse and a brown leather bodice sits on a raised stool beside him, her green cloak drawn close. Center the worried pair; behind them a blackened ceiling is visible through the doorway to the scorched hall.",
-        "caption": "Разговор зашёл об ограбленной хозяйке.",
+        "caption": "",
         "speaker": "Джек",
-        "line": "Как можно попросить её, чтобы она больше нам не угрожала?",
-        "time": "3:49:03"
+        "line": "Как попросить хозяйку, чтобы больше нам не угрожала?",
+        "time": "3:49:03",
+        "art_key": "93-3",
+        "cast": [
+          "mark",
+          "jack",
+          "pippin"
+        ],
+        "side": "auto"
       }
+    ],
+    "layout": [
+      1,
+      2,
+      2
     ]
   },
   {
@@ -494,22 +1293,70 @@
         "caption": "",
         "speaker": "Марк",
         "line": "Я могу договориться. За услугу.",
-        "time": "3:49:09"
+        "time": "3:49:09",
+        "art_key": "94-1",
+        "cast": [
+          "mark",
+          "jack",
+          "pippin"
+        ],
+        "side": "auto"
       },
       {
         "scene": "Square tight portrait of Mark, a composed adult human man with short dark hair greying at the temples, dressed in a plain charcoal wool town doublet over a linen shirt, seated in the dim kitchen of a medieval manor. His hand rests flat on the table; his gaze is steady and direct as he stresses the exact terms of the bargain. A single flame glows at the edge of the shot, lighting one side of his face. Center his eyes.",
-        "caption": "Клаусу нужна помощь с инквизитором.",
+        "caption": "",
         "speaker": "Марк",
-        "line": "Моему господину нужно, чтобы он уехал. Не умер, уехал.",
-        "time": "3:50:06"
+        "line": "Помогите Клаусу. Моему господину нужно, чтобы инквизитор уехал.",
+        "time": "3:50:06",
+        "art_key": "94-2",
+        "cast": [
+          "mark"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "94-4",
+        "cast": [
+          "mark"
+        ],
+        "side": "auto",
+        "time": "3:50:14",
+        "scene": "Close view of Mark at the kitchen table, turning his palm down in a quiet gesture of emphasis. Light falls on his watchful eyes. Jack's brown leather shoulder stays out of focus.",
+        "caption": "",
+        "speaker": "Марк",
+        "line": "Не умер. Уехал."
+      },
+      {
+        "art_key": "94-5",
+        "cast": [
+          "mark",
+          "jack"
+        ],
+        "side": "auto",
+        "time": "3:57:17",
+        "scene": "Mark and Jack shake hands across a worn kitchen table, sleeves in charcoal and brown leather, respectively. A single guttering candle and a little pile of ash; the ring has not yet been produced.",
+        "caption": "Ударили по рукам.",
+        "speaker": "",
+        "line": ""
       },
       {
         "scene": "Square close composition centered on a plain signet ring in the open hand of Mark, a composed adult human man with short dark hair greying at the temples, dressed in a plain charcoal wool town doublet over a linen shirt across a corner of a medieval kitchen table. Jack, a rugged adult human man with tousled dark wavy hair, light stubble, a worn brown leather coat and a burgundy scarf reaches to accept it, his weathered brown sleeve and burgundy scarf framing the gesture. Focus on the glint of the seal between their hands.",
-        "caption": "Завтра Марк ждёт всю компанию.",
+        "caption": "Марк протянул печатку. Завтра он ждёт всех.",
         "speaker": "Марк",
-        "line": "Ну, чтобы вы через заборы больше не лазили.",
-        "time": "3:57:36"
+        "line": "Это вам. Чтобы через заборы больше не лазили.",
+        "time": "3:57:36",
+        "art_key": "94-3",
+        "cast": [
+          "mark",
+          "jack"
+        ],
+        "side": "auto"
       }
+    ],
+    "layout": [
+      2,
+      2,
+      1
     ]
   },
   {
@@ -518,25 +1365,74 @@
     "panels": [
       {
         "scene": "Wide horizontal view inside the medieval port tavern in the small hours. Center Pippin, a very short, sturdy adult halfling woman with copper curls, a rounded freckled face, a green travelling cloak, an ivory blouse and a brown leather bodice crossing the threshold with a coil of hemp rope, addressing Godfrey, the broad older dwarf innkeeper with a bald crown, a thick grey beard, rolled ivory sleeves and a leather apron at the table. Jack, a rugged adult human man with tousled dark wavy hair, light stubble, a worn brown leather coat and a burgundy scarf follows with the other half of the heavy rope coiled over his arm. Thorin, a heavily tattooed muscular adult dwarf with a prominent copper-red mohawk, a sleeveless leather jerkin and an axe resting by his chair sits beside the innkeeper with a tankard. A few candle stubs light the empty room.",
-        "caption": "В трактир вернулись с обеими верёвками.",
+        "caption": "Обе верёвки принесли обратно.",
         "speaker": "Пиппин",
-        "line": "Годфри, хорошие новости! Похоже, ты в безопасности.",
-        "time": "3:59:43"
+        "line": "Годфри! Марк говорит, твою таверну больше не тронут.",
+        "time": "3:59:43",
+        "art_key": "95-1",
+        "cast": [
+          "jack",
+          "pippin",
+          "godfrey",
+          "thorin"
+        ],
+        "side": "auto"
       },
       {
         "scene": "Square close-up of Godfrey, the broad older dwarf innkeeper with a bald crown, a thick grey beard, rolled ivory sleeves and a leather apron, centered in a warm, dim medieval tavern. Eyebrows raised, he squints skeptically over the rim of a battered tankard, the mug still resting on the wood. A dying candle catches the grey curls of his beard.",
-        "caption": "Пиппин передала слова Марка.",
+        "caption": "",
         "speaker": "Годфри",
         "line": "И вы в эту хуйню поверили?",
-        "time": "4:00:06"
+        "time": "4:00:06",
+        "art_key": "95-2",
+        "cast": [
+          "godfrey"
+        ],
+        "side": "auto"
+      },
+      {
+        "art_key": "95-4",
+        "cast": [
+          "pippin"
+        ],
+        "side": "auto",
+        "time": "4:00:26",
+        "scene": "The short adult halfling rests one elbow on the tavern table and answers the older innkeeper's skepticism with a tired shrug. Her copper hair is dishevelled after the night.",
+        "caption": "",
+        "speaker": "Пиппин",
+        "line": "Завтра расскажут подробнее."
+      },
+      {
+        "art_key": "95-5",
+        "cast": [
+          "thorin",
+          "godfrey"
+        ],
+        "side": "auto",
+        "time": "4:00:40",
+        "scene": "Two dwarves, orange-crested tattooed Thorin and balding grey-bearded Godfrey, face each other over a tankard at the table. Paper reserved for their promised portrait rests nearby. The speaker is off-frame.",
+        "caption": "",
+        "speaker": "",
+        "line": "А завтра ещё портреты рисовать."
       },
       {
         "scene": "Square final view from the wooden landing above a sleeping medieval inn. Jack, a rugged adult human man with tousled dark wavy hair, light stubble, a worn brown leather coat and a burgundy scarf climbs the stairs with a coil of hemp swinging from one shoulder, turning with a satisfied grin toward Pippin, a very short, sturdy adult halfling woman with copper curls, a rounded freckled face, a green travelling cloak, an ivory blouse and a brown leather bodice, who follows one tread below with copper curls lit by the last candle. Center their weary faces as the stairway vanishes into blue night.",
-        "caption": "А завтра ещё рисовать портреты.",
+        "caption": "",
         "speaker": "Джек",
         "line": "Надо чаще ночью гулять.",
-        "time": "4:00:58"
+        "time": "4:00:58",
+        "art_key": "95-3",
+        "cast": [
+          "jack",
+          "pippin"
+        ],
+        "side": "auto"
       }
+    ],
+    "layout": [
+      1,
+      2,
+      2
     ]
   }
 ]

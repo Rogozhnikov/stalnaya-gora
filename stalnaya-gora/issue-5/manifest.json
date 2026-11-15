@@ -4,7 +4,7 @@
   "title": "Две верёвки и печатка",
   "cover_pages": 1,
   "story_pages": 20,
-  "panels": 60,
+  "panels": 97,
   "total_pages": 21,
   "printed_pages": "76–95",
   "source": {
@@ -14,18 +14,18 @@
   },
   "pdf": {
     "file": "stalnaya-gora/pdf/Stalnaya-Gora-5-2026-11-14.pdf",
-    "size_bytes": 25538288,
-    "sha256": "a05868514f31f17972e2f6e578984acd913bd344311e1fccb547a78901e122dd"
+    "size_bytes": 28472798,
+    "sha256": "e3fa257d9785d077881fd1b70e4d8352f4e8506263fdca10affa56e48e539405"
   },
   "cbz": {
     "file": "stalnaya-gora/issue-5/Stalnaya-Gora-5-2026-11-14.cbz",
-    "size_bytes": 18699376,
-    "sha256": "41be978088ba26253f9916c834a157ae27be41bed69aa12287a96fef75b2fef2"
+    "size_bytes": 17060646,
+    "sha256": "e10a38cedddd80871eebb8bc10c122ea78702cd02230facc8e5391c2bf10b79e"
   },
   "cover": {
     "file": "stalnaya-gora/issue-5/cover.jpg",
-    "size_bytes": 950079,
-    "sha256": "9aa48bb46002a75e21897cb4c9ee722e0c542004bf42b0bdaeedaa0680d769a0"
+    "size_bytes": 737250,
+    "sha256": "e6300706024ac5c56f68c5a709cf1727a8d7c2c780f3d90a274837f21643fe62"
   },
   "storyboard": "production/storyboard.json",
   "illustration_prompts": "production/prompts.json",
@@ -33,5 +33,6 @@
     "pages_rendered": 21,
     "selectable_text_checked": true,
     "cbz_members_and_crc_checked": true
-  }
+  },
+  "edition": "Перерисованная редакция от 15.11.2026"
 }
