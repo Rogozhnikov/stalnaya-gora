@@ -14,18 +14,18 @@
   },
   "pdf": {
     "file": "stalnaya-gora/pdf/Stalnaya-Gora-5-2026-11-14.pdf",
-    "size_bytes": 28472798,
-    "sha256": "e3fa257d9785d077881fd1b70e4d8352f4e8506263fdca10affa56e48e539405"
+    "size_bytes": 35091030,
+    "sha256": "439d9b6da7872c9a67c9b5f7d2790391bec9a34f6a87ad746e67385fb7b31b32"
   },
   "cbz": {
     "file": "stalnaya-gora/issue-5/Stalnaya-Gora-5-2026-11-14.cbz",
-    "size_bytes": 17060646,
-    "sha256": "e10a38cedddd80871eebb8bc10c122ea78702cd02230facc8e5391c2bf10b79e"
+    "size_bytes": 21554225,
+    "sha256": "8c377041cbb9ddf2c6693355854368fc713a5fb532faf5bad13d353d7e38b470"
   },
   "cover": {
     "file": "stalnaya-gora/issue-5/cover.jpg",
-    "size_bytes": 737250,
-    "sha256": "e6300706024ac5c56f68c5a709cf1727a8d7c2c780f3d90a274837f21643fe62"
+    "size_bytes": 966614,
+    "sha256": "7d8471f2d51ac3cd560473a25717f1943881a6ee2269a14ba769afc8466a6951"
   },
   "storyboard": "production/storyboard.json",
   "illustration_prompts": "production/prompts.json",
@@ -34,5 +34,5 @@
     "selectable_text_checked": true,
     "cbz_members_and_crc_checked": true
   },
-  "edition": "Перерисованная редакция от 15.11.2026"
+  "edition": "Рисованная редакция по образцам выпуска №4"
 }

@@ -55,10 +55,10 @@
     "story_pages": 20,
     "printed_pages": "76-95",
     "published_file": "pdf/Stalnaya-Gora-5-2026-11-14.pdf",
-    "published_size_bytes": 28472798,
-    "published_sha256": "e3fa257d9785d077881fd1b70e4d8352f4e8506263fdca10affa56e48e539405",
+    "published_size_bytes": 35091030,
+    "published_sha256": "439d9b6da7872c9a67c9b5f7d2790391bec9a34f6a87ad746e67385fb7b31b32",
     "status": "verified",
-    "creation": "Locally illustrated session adaptation with 97 panels using visual references from issues 1–4",
+    "creation": "Illustrated session adaptation using built-in image generation and original character references from issue 4",
     "details": "issue-5/manifest.json"
   }
 ]
