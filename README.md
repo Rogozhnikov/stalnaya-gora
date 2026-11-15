@@ -4,6 +4,8 @@
 
 **[Открыть каталог выпусков](stalnaya-gora/README.md)** · [Разбор сюжета и персонажей](stalnaya-gora/NOTES.md)
 
+[Инструкция по созданию комиксов](COMIC_GUIDE.md)
+
 ![Стальная гора — начало истории](stalnaya-gora/covers/issue-1.jpg)
 
 Новый выпуск — **«Две верёвки и печатка»**, №5 по игре 14.11.2026. [Читать в PDF](stalnaya-gora/pdf/Stalnaya-Gora-5-2026-11-14.pdf) · [О выпуске](stalnaya-gora/issue-5/README.md).
