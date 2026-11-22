@@ -8,4 +8,4 @@
 
 ![Стальная гора — начало истории](stalnaya-gora/covers/issue-1.jpg)
 
-Новый выпуск — **«Две верёвки и печатка»**, №5 по игре 14.11.2026. [Читать в PDF](stalnaya-gora/pdf/Stalnaya-Gora-5-2026-11-14.pdf) · [О выпуске](stalnaya-gora/issue-5/README.md).
+Новый выпуск — **«Стабильность»**, №6 по игре 21.11.2026. [Читать в PDF](stalnaya-gora/pdf/Stalnaya-Gora-6-2026-11-21.pdf) · [О выпуске](stalnaya-gora/issue-6/README.md).

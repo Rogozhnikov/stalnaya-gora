@@ -60,5 +60,18 @@
     "status": "verified",
     "creation": "Illustrated session adaptation using built-in image generation and original character references from issue 4",
     "details": "issue-5/manifest.json"
+  },
+  {
+    "issue": 6,
+    "session_date": "2026-11-21",
+    "pages": 29,
+    "story_pages": 28,
+    "printed_pages": "96-123",
+    "published_file": "pdf/Stalnaya-Gora-6-2026-11-21.pdf",
+    "published_size_bytes": 47149482,
+    "published_sha256": "093f8d7c012bff03ba62795debdf4d1d413ebd6b0ed89e0e9b14d88ff63bd045",
+    "status": "verified",
+    "creation": "Illustrated session adaptation using original issue4 face and style references, with contextual shared-device speaker attribution",
+    "details": "issue-6/manifest.json"
   }
 ]

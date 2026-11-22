@@ -1,0 +1,49 @@
+{
+  "issue": 6,
+  "session_date": "2026-11-21",
+  "title": "Стабильность",
+  "cover_pages": 1,
+  "story_pages": 28,
+  "total_pages": 29,
+  "panels": 140,
+  "printed_pages": "96–123",
+  "source": {
+    "filename": "audio (3).json",
+    "sha256": "955c16e1f9d730752989e8aa9dfd13d990754a9857e587f756d1a8756e653d1f",
+    "segments": 4093,
+    "shared_devices": {
+      "Pippin_laptop": [
+        "Пиппин",
+        "Франц"
+      ],
+      "Archivist_laptop": [
+        "Архивариус",
+        "Клаус"
+      ]
+    },
+    "speaker_attribution": "Contextual review of character actions and dialogue. Speaker IDs are not character identities."
+  },
+  "storyboard": "production/storyboard.json",
+  "illustration_prompts": "production/prompts.json",
+  "validation": {
+    "pages_rendered": 29,
+    "selectable_text_checked": true,
+    "cbz_members_and_crc_checked": true,
+    "included_source_art_sha256_checked": true
+  },
+  "pdf": {
+    "file": "stalnaya-gora/pdf/Stalnaya-Gora-6-2026-11-21.pdf",
+    "size_bytes": 47149482,
+    "sha256": "093f8d7c012bff03ba62795debdf4d1d413ebd6b0ed89e0e9b14d88ff63bd045"
+  },
+  "cbz": {
+    "file": "stalnaya-gora/issue-6/Stalnaya-Gora-6-2026-11-21.cbz",
+    "size_bytes": 29410513,
+    "sha256": "6a626e2d2a8cdbf721780eb532d1360f1cf09023edd1cf3a7d834f13959f34ef"
+  },
+  "cover": {
+    "file": "stalnaya-gora/issue-6/cover.jpg",
+    "size_bytes": 999109,
+    "sha256": "6ca6385bde613ae55fc9933a30476d088c7e5ec87d9bd4d9ba2a3a90537cb4ee"
+  }
+}
