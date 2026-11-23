@@ -59,6 +59,13 @@
         "pdf_page": 2
       }
     },
+    "96-2-a59d4de54694": {
+      "sha256": "a59d4de5469434c3ba904f00c39d60a2d5a299de7b760f3858cdeb676b356ffb",
+      "source": {
+        "kind": "generated illustration used as edit or continuity reference",
+        "name": "96-2.png"
+      }
+    },
     "klaus-c3d1dda59689": {
       "sha256": "c3d1dda596891cf901c893698e968150019cb1e176d4eca816cc7c393eb6b14b",
       "source": {
@@ -73,6 +80,13 @@
         ],
         "note": "Klaus in borrowed skin; third eye bound under bandage and burgundy cap.",
         "file": "stalnaya-gora/pdf/Stalnaya-Gora-2.pdf"
+      }
+    },
+    "97-4-a9924a5f9cf1": {
+      "sha256": "a9924a5f9cf19dc2a4ac8a9239f88cc219bafd859f1dd6bc60da9f47bf589c5c",
+      "source": {
+        "kind": "generated illustration used as edit or continuity reference",
+        "name": "97-4.png"
       }
     },
     "godfrey-138efccf34ee": {
@@ -194,6 +208,10 @@
         "archivist-da2d391ddb61",
         "98-8f2feec940b4"
       ],
+      "source": {
+        "file": "exec-4d40e2ab-7f98-4234-b6d1-412fdb1b29bb.png",
+        "sha256": "76bc4cf4ed513be37566f2fa02e9aaa115c674f8476bec2bd8807631682dc898"
+      },
       "dimensions": [
         1024,
         1536
@@ -201,10 +219,65 @@
     },
     "96": {
       "prompt": "Precise wardrobe correction of this existing five-panel painted fantasy comic page. Preserve every face, head, moustache, hair, normal uncovered eyes, human arm anatomy, right-wrist tentacle mutation, hand gestures, forest, ferns, lighting, detailed brush/ink illustration, all camera crops and the five-panel white gutter layout EXACTLY. In ALL panels, REMOVE the blue travelling cloak, brass brooch and ivory shirt/collar. Instead show normal BARE ADULT MALE SHOULDERS, upper chest and forearms in these same head-and-shoulder portraits. Franz lost his travelling clothes earlier in the story. Keep a high dense mass of GREEN FERNS and tall grass covering the bottom edge in every panel, so compositions show just adult man's face, shoulders and his working hands above foreground foliage. Frame every portrait at collarbone/shoulder level. Only his already-visible normal arms extend beyond the ferns as needed to preserve gestures. No lower torso or lower body visible in any panel. Both normal right upper arm and right forearm continue to his wrist with the SAME SMALL pale fleshy tentacle-hand at its end; left hand retains the same long fingers. No other people. Original hand-painted medium, colour and contours unchanged. This is a neutral forest survival adventure scene. No words or balloons.",
-      "sha256": "dbd40f0813e9ccc2b67508f6e818ffb49509b46ce008eca1605b4426a844e81c",
+      "sha256": "50b51d5c4fc9c0c3f631399915c507a6f232a5a3c39271332a2872518f64a763",
       "references": [
         "exec-ef4c860f-1ee7-426a-9dc9-a3b786992393-6a9a14800384",
         "franz-7338791f1b88"
+      ],
+      "source": {
+        "file": "tmp/issue6/artifact-audit/fixed-sheets/96.png",
+        "sha256": "50b51d5c4fc9c0c3f631399915c507a6f232a5a3c39271332a2872518f64a763"
+      },
+      "initial_source": {
+        "file": "exec-03aaaa7e-139e-4ee0-920a-4001c61adf53.png",
+        "sha256": "dbd40f0813e9ccc2b67508f6e818ffb49509b46ce008eca1605b4426a844e81c"
+      },
+      "panel_edits": [
+        {
+          "key": "96-2",
+          "prompt": "Mirror this EXISTING single comic panel HORIZONTALLY, left-to-right, as one complete image. Output a landscape1024x848 panel, keeping the same original aspect ratio and framing. The pine trunk now must be on the LEFT edge; the long-fingered normal human hand reaching the trunk must be at TOP LEFT, connected naturally to Franz's LEFT shoulder and arm because we see his BACK. His head with the same tousled fair hair is now at the RIGHT and lower-right of picture, face mostly turned away. Keep the same bare adult male shoulders, normal left elbow/forearm, forest, ferns, rays, all anatomy and realistic painted/etched illustration texture in their exactly mirrored positions. Do not add or remove anything. Do not create a second raised hand or a different pose. This corrects the side of the reaching arm in the story. Only the complete horizontal reflection is requested. Preserve every fingertip, top of the reaching hand and back of head within frame. No lettering, signature, frame, balloons, caption or new elements.",
+          "defect": "Wrong side of reaching hand; mirror to show normal left arm.",
+          "art_key": "96-2",
+          "tool": "built-in image_gen",
+          "output_sha256": "81438cf89a839827545ff18e3ea8dae6c3d1565b268168e74293e3a438ce5f1a",
+          "recipe_sha256": "3ba2a4dcac960f4db04947f8560d04e000d53c2d4f8b07527135aba5d0033c3c",
+          "box": [
+            6,
+            605,
+            508,
+            1021
+          ],
+          "fit": {
+            "method": "ImageOps.fit",
+            "resampling": "LANCZOS",
+            "centering": [
+              0.5,
+              0.5
+            ]
+          },
+          "final_panel_sha256": "f74ca52fad42ad28231f85c5795331dc0ac385296446a2fbea222354297bd310",
+          "before_panel_sha256": "a59d4de5469434c3ba904f00c39d60a2d5a299de7b760f3858cdeb676b356ffb",
+          "before_sheet_sha256": "dbd40f0813e9ccc2b67508f6e818ffb49509b46ce008eca1605b4426a844e81c",
+          "after_sheet_sha256": "50b51d5c4fc9c0c3f631399915c507a6f232a5a3c39271332a2872518f64a763",
+          "applied_utc": "2026-11-23T18:24:38.050516+00:00",
+          "unchanged_pixels_outside_box_checked": true,
+          "other_panels_pixel_invariant_checked": true,
+          "references": [
+            "96-2-a59d4de54694"
+          ],
+          "source": {
+            "file": "exec-93e74939-4c25-4ea9-87b0-a77fbe7232ee.png",
+            "sha256": "81438cf89a839827545ff18e3ea8dae6c3d1565b268168e74293e3a438ce5f1a"
+          },
+          "recipe": {
+            "file": "tmp/issue6/artifact-audit/edits/20261123T182437.768392Z-96-2/input-recipe.json",
+            "sha256": "3ba2a4dcac960f4db04947f8560d04e000d53c2d4f8b07527135aba5d0033c3c"
+          },
+          "fitted_panel": {
+            "file": "tmp/issue6/artifact-audit/edits/20261123T182437.768392Z-96-2/96-2.png",
+            "sha256": "f74ca52fad42ad28231f85c5795331dc0ac385296446a2fbea222354297bd310"
+          }
+        }
       ],
       "initial_generation": {
         "prompt": "Draw a FIVE-PANEL forest adventure comic ART SHEET portrait1024x1536, [1,2,2] rows, wide top and twosquarepanelsbelow. Exact hand-painted drawn/etched pigment illustration of supplied original comic issue4, expressive fictional faces rendered in brush and ink, warm/cool gouache planes. Reference3 is SAME adult FRANZ35: narrow handsome fair-haired face, small neat sandy moustache, tousled waves, characterful brow. ALL SCENES use HEAD, SHOULDERS AND HANDS framing. Ground-level dense grasses and foreground roots fill lower frame edges. Thick foliage and a fallen log conceal his body. No lower torso visible. FRANZ HAS exactly2HUMAN ARMS: normal right deltoid, normal right bicep and elbow, normal right forearm. ONLY at the very END of right forearm at WRIST there are4small pale fleshy curling tentacles instead of a hand. The wrist tentacles have natural pink/peach SKIN, match his ordinary arm's pale skin under daylight. Left hand has long human fingers. TOP WIDE panel1: Franz's weary expressive face awakens above a bed of needles in daylight pine forest, foreground ferns obscure everything below shoulders. His normal LEFT hand pressed to a fallen mossy log; his RIGHT normal arm bends along ground toward viewer, the right WRIST at bottom edge bears a small curling tentacle cluster. Panel2 middleleft: from behind shoulder view, show his head and full LEFT arm reaching upward toward thick nearby pine trunk, but too weak to grip. Everything below shoulders fills with ferns, shallow forest light. Panel3 middleright: closeup Franz FACE only as he calls loudly for help, empty pine forest behind, eyes upward, sympathetic exhausted expression. Panel4 bottomleft: closeup his face and his NORMAL LEFT HAND with long pointing INDEX at the sun through branches, he now looks absurdly confident he found the way. Frame ends just below shoulders, no tentacles in this closeup because right arm outside frame. Panel5 bottomright: a miniature Franz head and shoulders emerge through dense HIGH FERNS beside a woodland path, scene shot across a fallen log which hides his body, he crawls slowly with LEFT human hand resting on log and RIGHT normal forearm also resting on it, tiny flesh-colour tentacle-hand curling at right wrist. His grimace and raised eyebrow recognizable. Show morning light and silent forest, no other creatures, humans or buildings. Continuous normal anatomy from each shoulder to wrist. Clear small wrist mutation only. Narrow straight WHITE gutters. Art only without lettering, captions, titles, speech balloons, numbers, borders or ornaments. Keep same illustrated faces and style as supplied4. Leave uppercorner room for later text.",
@@ -241,7 +314,7 @@
             508,
             1021
           ],
-          "sha256": "a59d4de5469434c3ba904f00c39d60a2d5a299de7b760f3858cdeb676b356ffb",
+          "sha256": "f74ca52fad42ad28231f85c5795331dc0ac385296446a2fbea222354297bd310",
           "dimensions": [
             502,
             416
@@ -293,12 +366,67 @@
     },
     "97": {
       "prompt": "Use case: illustration-story.\nCreate an unlettered full comic ART SHEET, portrait 1024x1536, continuing the EXACT ILLUSTRATED drawing style and SAME FACES of original Russian dark fantasy comic ISSUE 4. The original cover establishes the actors and the original issue4 page75 establishes painting and drawing. Use clearly hand-painted expressive facial planes, visible irregular pigment, broken brush marks and finely inked etched edges throughout skin, clothing and Gothic Old World scenery. Jack has the same angular handsome broad face, thick tousled dark brown wavy hair, stubble, burgundy scarf and worn brown leather coat. Pippin has the same full round freckled ADULT face, sturdy small adult body, dense copper curls hiding small ROUND human ears, green clasped cloak, ochre laced bodice and ivory blouse. Her height is distinctly below Jack's. Popov has grey curls and beard, round glasses and deep green coat, as the original cover. All faces preserve the drawn fictional identities in the attached originals. Narrow perfectly straight WHITE gutters. Exactly FIVE PANELS in THREE ROWS, row1 ONE FULL-WIDTH panel; row2 TWO equal side-by-side panels; row3 TWO equal side-by-side panels. Read left to right then top to bottom. Each row approximately one third of the art sheet height. Full bleed pictures without lettering, captions, speech, balloons, margins or page decorations. Leave practical upper corner space for later text, count characters and limbs, stage poses and sightlines legibly. No printed words, letters, numbers, labels, captions or watermarks anywhere, including papers and books. The setting is Renaissance Gothic Old World dark fantasy; no modern props or technology.\nREFERENCE ROLES:\nReference 1: original issue4 cover: primary exact Jack, adult Pippin and elderly Popov identities.\nReference 2: original issue4 printed75: primary illustrated hand-painted style, colors, drawn faces and proportions.\nReference 3: original issue2 portrait, exact gaunt Klaus/Margot face; reposition bandage ABOVE visible eyes.\nPANELS IN READING ORDER:\nPanel 1: Daylit shabby room in the port district, with two rough pallets, a shelf and a street-facing wooden door. Klaus in the borrowed female skin of Margot wakes on one pallet clutching a bruised side. Preserve the gaunt wrinkled face, grey-brown wisps and weary thin mouth of the original Klaus portrait. Two normal eyes remain visible below a narrow stained bandage tied across the FOREHEAD above the eyebrows. Wear a loose, shabby burgundy garment and cap. Fully clothed. He is free, not bound. No tentacles, no fair-haired Franz.\nPanel 2: Klaus as Margot sits by the shelf holding a battered book open in the correct orientation. The haggard face is fascinated but cannot decipher it; one eyebrow is raised with absurd enthusiasm. Keep the same burgundy clothing, gaunt borrowed face and forehead bandage ABOVE the visible eyes. Both hands have ordinary human anatomy, with only a few subtle sucker marks; no tentacles. No readable marks on book pages, no other character.\nPanel 3: Klaus cautiously opens the real street door, which is visibly hinged into the room wall. Outside on the port cobbles exactly two fully dressed adult human toughs, Biba and Boba, simultaneously turn to look at Margot. Establish Biba as broad and bald with a blunt nose and dark brown vest; Boba is leaner with a broken nose, short black beard and dull grey cap. Shabby practical Renaissance clothes. Klaus freezes half behind the door. Not a corridor. All three faces and separate hands legible.\nPanel 4: At a coarse outdoor table just outside the same room, Klaus as Margot proudly lifts a filthy tin beer mug over a bowl of thin stew and a chunk of bread. His grotesquely confident smile contrasts with the gaunt face and ragged burgundy dress. Biba, broad bald in dark brown vest, and Boba, lean dark short beard with grey cap, sit or stand on the far side watching skeptically. Three adults, six ordinary arms, no tentacles. Warm dirty daylight, port wall behind.\nPanel 5: Klaus as Margot looks up in astonished interest from the rough table, one normal hand pointing at his own chest after learning that wages exist. Biba, the broad bald man, gestures toward a large wooden washing barrel nearby, while Boba in his grey cap shrugs. The barrel is filled with water but Klaus remains fully dressed beside it; no bathing nudity. Keep three separate adult bodies and the same faces and clothes established in preceding panels.\nFinal audit: exactly 5 rectangular pictures, narrow straight white gutters, no text or balloons. Match the attached original comic art rather than photography, digital game renders or generic new faces.\nAdditional reference 4: accepted issue6 pilot98, a supporting continuity sample for the same illustrated faces and hand-painted tactile drawing treatment. It does not change the requested panel layout or cast.",
-      "sha256": "25479c96f101b76bcc5347608113d2ed41225c1b1db12321712fde06fc1bf2c6",
+      "sha256": "31fb2d4a5172e98a361b5e2c66eb89946145508041fa152bc4ccb7083e8fcdb4",
       "references": [
         "cover-f846596be001",
         "page-20-b7600efa4ec0",
         "klaus-c3d1dda59689",
         "98-8f2feec940b4"
+      ],
+      "source": {
+        "file": "tmp/issue6/artifact-audit/fixed-sheets/97.png",
+        "sha256": "31fb2d4a5172e98a361b5e2c66eb89946145508041fa152bc4ccb7083e8fcdb4"
+      },
+      "initial_source": {
+        "file": "exec-4754bccc-2fdd-490b-a291-0875dc74232a.png",
+        "sha256": "25479c96f101b76bcc5347608113d2ed41225c1b1db12321712fde06fc1bf2c6"
+      },
+      "panel_edits": [
+        {
+          "key": "97-4",
+          "prompt": "Precise minimal artifact repair of this EXISTING single illustrated comic panel. Output one square1024x1024 panel with the SAME composition, fictional faces, hair, clothing, character identities, detailed painted/etched drawing texture, colours, lighting and all background people. The main foreground character on LEFT currently has THREE hands. REMOVE ONLY the floating raised hand and the raised PEWTER TANKARD near the character's mouth, at upper-centre-left just to right of face. Reconstruct matching old STONE WALL and background shade in that small area. Keep the existing hand pressed to the character's CHEST exactly as drawn. Keep the existing resting hand along the bottom TABLE EDGE exactly as drawn. These TWO hands are the character's only hands and both remain connected to their existing BURGUNDY sleeves. The left character keeps a smug smiling raised chin, eyes and face unchanged, speaking after breakfast. The two burly men at right keep all their faces, arms, hands and poses unchanged. Keep the bowl, spoon, bread, stone wall, lamp, awning and all other props exactly as they are. Do not add any new cup, new hand, limb, object or person. Match original fine inked contour and hand-painted colour throughout, no lettering or borders. This is a single minimal removal edit, preserve everything outside the floating tankard and its disembodied hand.",
+          "defect": "Three hands on Klaus; remove floating hand and tankard.",
+          "art_key": "97-4",
+          "tool": "built-in image_gen",
+          "output_sha256": "ed97c013119b9296cec961f7d1ae27d14d6264e0912f2ae197bcf508472234ce",
+          "recipe_sha256": "d399fea81d41fd4f05589294dd0fb44106ea85edf48d686559b5107aa218a477",
+          "box": [
+            6,
+            1022,
+            510,
+            1530
+          ],
+          "fit": {
+            "method": "ImageOps.fit",
+            "resampling": "LANCZOS",
+            "centering": [
+              0.5,
+              0.5
+            ]
+          },
+          "final_panel_sha256": "ffa923a52aaf7919e6b78dd3b8017cce15cb0bfc95ed85e8b0dcea9ca5d50e97",
+          "before_panel_sha256": "a9924a5f9cf19dc2a4ac8a9239f88cc219bafd859f1dd6bc60da9f47bf589c5c",
+          "before_sheet_sha256": "25479c96f101b76bcc5347608113d2ed41225c1b1db12321712fde06fc1bf2c6",
+          "after_sheet_sha256": "31fb2d4a5172e98a361b5e2c66eb89946145508041fa152bc4ccb7083e8fcdb4",
+          "applied_utc": "2026-11-23T18:24:01.306328+00:00",
+          "unchanged_pixels_outside_box_checked": true,
+          "other_panels_pixel_invariant_checked": true,
+          "references": [
+            "97-4-a9924a5f9cf1"
+          ],
+          "source": {
+            "file": "exec-5b5cf401-df58-4efa-812a-2f024a928bd1.png",
+            "sha256": "ed97c013119b9296cec961f7d1ae27d14d6264e0912f2ae197bcf508472234ce"
+          },
+          "recipe": {
+            "file": "tmp/issue6/artifact-audit/edits/20261123T182400.996692Z-97-4/input-recipe.json",
+            "sha256": "d399fea81d41fd4f05589294dd0fb44106ea85edf48d686559b5107aa218a477"
+          },
+          "fitted_panel": {
+            "file": "tmp/issue6/artifact-audit/edits/20261123T182400.996692Z-97-4/97-4.png",
+            "sha256": "ffa923a52aaf7919e6b78dd3b8017cce15cb0bfc95ed85e8b0dcea9ca5d50e97"
+          }
+        }
       ],
       "dimensions": [
         1024,
@@ -355,7 +483,7 @@
             510,
             1530
           ],
-          "sha256": "a9924a5f9cf19dc2a4ac8a9239f88cc219bafd859f1dd6bc60da9f47bf589c5c",
+          "sha256": "ffa923a52aaf7919e6b78dd3b8017cce15cb0bfc95ed85e8b0dcea9ca5d50e97",
           "dimensions": [
             504,
             508
@@ -387,6 +515,10 @@
         "godfrey-138efccf34ee",
         "published-95-75152865a9ce"
       ],
+      "source": {
+        "file": "exec-0605191d-c9cd-4ca7-b642-15c0b13b3afe.png",
+        "sha256": "8f2feec940b459c9050699b08c653b08f444dc9e11b57803d4db62d967750776"
+      },
       "dimensions": [
         1024,
         1536
@@ -473,6 +605,10 @@
         "archivist-da2d391ddb61",
         "98-8f2feec940b4"
       ],
+      "source": {
+        "file": "exec-84d5a2e1-fe62-4241-bba7-f1e1993878ce.png",
+        "sha256": "e62e6f795a17c6e6184039093b76b16600763b81d0925b221cc9fdfd614e03b1"
+      },
       "dimensions": [
         1024,
         1536
@@ -560,6 +696,10 @@
         "franz-7338791f1b88",
         "inquisitor-7d3ca158b24a"
       ],
+      "source": {
+        "file": "exec-07d0da61-eb65-4ad6-8210-8a2b4ef8ea3a.png",
+        "sha256": "cb304b7a52d0193ed1f04fd1755a018883293446ab790f531ebc284a7c42813f"
+      },
       "dimensions": [
         1024,
         1536
@@ -647,6 +787,10 @@
         "98-8f2feec940b4",
         "97-25479c96f101"
       ],
+      "source": {
+        "file": "exec-ebea45c6-aa58-42ec-a636-fa135f04e2db.png",
+        "sha256": "663d03e5aa890de64747548fa67fe2e8c25c0d6f22c438440e899829f6498d29"
+      },
       "dimensions": [
         1024,
         1536
@@ -734,6 +878,10 @@
         "godfrey-138efccf34ee",
         "98-8f2feec940b4"
       ],
+      "source": {
+        "file": "exec-1966626d-04f8-4b10-bc2d-c1bf1b786f93.png",
+        "sha256": "48b653163bfb0137cb78ec80e20b57eb807a0d69d70cc62707a438d622128903"
+      },
       "dimensions": [
         1024,
         1536
@@ -821,6 +969,10 @@
         "98-8f2feec940b4",
         "102-48b653163bfb"
       ],
+      "source": {
+        "file": "exec-e7ba8e57-78ba-4998-b359-dd9a448f195b.png",
+        "sha256": "573617acb17eb206bb53d0cd7380aff58452cd008da30550559d560f98a41118"
+      },
       "dimensions": [
         1024,
         1536
@@ -908,6 +1060,10 @@
         "98-8f2feec940b4",
         "102-48b653163bfb"
       ],
+      "source": {
+        "file": "exec-21caa6b1-a23f-45f7-b9c5-df8649f0d2b4.png",
+        "sha256": "f5e7c5fb433b1a42584b410a9cda33ad92d5d81d957a42ce6f672938ed7a02cc"
+      },
       "dimensions": [
         1024,
         1536
@@ -994,6 +1150,10 @@
         "archivist-da2d391ddb61",
         "98-8f2feec940b4"
       ],
+      "source": {
+        "file": "exec-4d3c3bb4-9876-44ec-a484-040bd0179704.png",
+        "sha256": "df81ae583c8a87ec9a5dad7cf4f523afaf0a7575152b72b6e8b8d203efc01fb8"
+      },
       "dimensions": [
         1024,
         1536
@@ -1081,6 +1241,10 @@
         "inquisitor-7d3ca158b24a",
         "98-8f2feec940b4"
       ],
+      "source": {
+        "file": "exec-71d987f2-5707-4ad6-801e-f586eba0557a.png",
+        "sha256": "e4d1289ccc75593904f1ec77a5886af21fb7d444aa6cbb251dfff0d07407e690"
+      },
       "dimensions": [
         1024,
         1536
@@ -1168,6 +1332,10 @@
         "inquisitor-7d3ca158b24a",
         "106-e4d1289ccc75"
       ],
+      "source": {
+        "file": "exec-36373737-bf0c-4e3e-bfcb-cd6c1a5e124d.png",
+        "sha256": "559e4993cb20fc04361e8d97294ade64e0c717c55879032efe7cfc0762f3466b"
+      },
       "dimensions": [
         1024,
         1536
@@ -1255,6 +1423,10 @@
         "inquisitor-7d3ca158b24a",
         "106-e4d1289ccc75"
       ],
+      "source": {
+        "file": "exec-5f627225-ee69-41b9-95c8-7a5259750093.png",
+        "sha256": "609ef446be1ba300088595ccb2b489b4efb18fd51693c26479cd833fdd3e2ad9"
+      },
       "dimensions": [
         1024,
         1536
@@ -1342,6 +1514,10 @@
         "inquisitor-7d3ca158b24a",
         "106-e4d1289ccc75"
       ],
+      "source": {
+        "file": "exec-fa1f70c8-b7a7-4f69-ab2d-4d94fca580fc.png",
+        "sha256": "2be59ba68d7613a438caf4ea6b59e56d57ba387b8241c2871a28ed4dd3a41476"
+      },
       "dimensions": [
         1024,
         1536
@@ -1428,6 +1604,10 @@
         "franz-7338791f1b88",
         "98-8f2feec940b4"
       ],
+      "source": {
+        "file": "exec-a91df96c-3d21-4b98-a0e0-7f2d64f4612b.png",
+        "sha256": "babeaad2b0dc0bc531fb7ba2094aa28347dda93d4c3094dc948d6e3899c7f756"
+      },
       "dimensions": [
         1024,
         1536
@@ -1515,6 +1695,10 @@
         "98-8f2feec940b4",
         "110-babeaad2b0dc"
       ],
+      "source": {
+        "file": "exec-c04cc818-ebb2-48c5-bbbb-426e69bc00ec.png",
+        "sha256": "34415d3655b9049ea40466f67fac853c659504174b05619f9c24b02244b486f0"
+      },
       "dimensions": [
         1024,
         1536
@@ -1601,6 +1785,10 @@
         "archivist-da2d391ddb61",
         "98-8f2feec940b4"
       ],
+      "source": {
+        "file": "exec-11286ee1-ccd1-4306-8a36-6dd9d4fe42c5.png",
+        "sha256": "8820251625f5dbea154e1ac485c1abbde3efd8913393ebd91804c7ef73f08c24"
+      },
       "dimensions": [
         1024,
         1536
@@ -1688,6 +1876,10 @@
         "98-8f2feec940b4",
         "112-8820251625f5"
       ],
+      "source": {
+        "file": "exec-caf9c492-a66d-4f6c-8ed6-58431e0ef28f.png",
+        "sha256": "c3eecb0e354977399dc62942dd64bd96899632db296d4c48a081abe9f9b891b5"
+      },
       "dimensions": [
         1024,
         1536
@@ -1775,6 +1967,10 @@
         "98-8f2feec940b4",
         "101-663d03e5aa89"
       ],
+      "source": {
+        "file": "exec-6fe58e65-f184-4808-ab5d-aa2581089e4a.png",
+        "sha256": "1ee137948eac50c16cef33ff0fcc9f987606c35638b66fcb5e51ad1ecca8dafa"
+      },
       "dimensions": [
         1024,
         1536
@@ -1859,6 +2055,10 @@
         "cover-f846596be001",
         "page-20-b7600efa4ec0"
       ],
+      "source": {
+        "file": "exec-99d1b127-e263-4465-96b6-d0434470a020.png",
+        "sha256": "5f8272df05f15e2fed9c314dbede428289e0058d0b86292ce4412dc41328d90d"
+      },
       "dimensions": [
         1024,
         1536
@@ -1943,6 +2143,10 @@
         "cover-f846596be001",
         "page-20-b7600efa4ec0"
       ],
+      "source": {
+        "file": "exec-4b9fe3a4-1b7e-4ad1-bc49-fe254782c5d2.png",
+        "sha256": "9efe01eba7453cb1d59a7db4a589f482dc70e694ba8680728c6dd6383226a7c8"
+      },
       "dimensions": [
         1024,
         1536
@@ -2027,6 +2231,10 @@
         "cover-f846596be001",
         "page-20-b7600efa4ec0"
       ],
+      "source": {
+        "file": "exec-cc342d25-1379-4586-8c85-1f773d6af008.png",
+        "sha256": "1a95e1cfa7533001d1b285eb92dab3d912d9fede0ba9ea4408ee6f7fd3a6f28a"
+      },
       "dimensions": [
         1024,
         1536
@@ -2112,6 +2320,10 @@
         "page-20-b7600efa4ec0",
         "archivist-da2d391ddb61"
       ],
+      "source": {
+        "file": "exec-0faac9d3-a1f6-4bd2-802d-b6f82f41f35e.png",
+        "sha256": "94259926b418389d8554588a2bfa0eec40af250e02568808a6b22c846fee8b6a"
+      },
       "dimensions": [
         1024,
         1536
@@ -2197,6 +2409,10 @@
         "cover-f846596be001",
         "page-20-b7600efa4ec0"
       ],
+      "source": {
+        "file": "exec-163f6838-a861-465a-950f-63f3934b7b94.png",
+        "sha256": "acebfbfa6ea8a5e8baf88f0dc74b436148d6a03665885075c375ac7acf652fc5"
+      },
       "dimensions": [
         1024,
         1536
@@ -2282,6 +2498,10 @@
         "cover-f846596be001",
         "page-20-b7600efa4ec0"
       ],
+      "source": {
+        "file": "exec-a959bd46-305b-464c-a8b7-53bb64e11789.png",
+        "sha256": "0e25f1100ec29dd3706dbbcc792660b8d8a8d6ec7ed75c5c2a9966e20c8a9029"
+      },
       "dimensions": [
         1024,
         1536
@@ -2366,6 +2586,10 @@
         "cover-f846596be001",
         "page-20-b7600efa4ec0"
       ],
+      "source": {
+        "file": "exec-2fab642f-cb42-40a6-9db8-139d60ff6851.png",
+        "sha256": "6121b2bfe057593c83be2b3944d71ed2f4f849655ac56f833e15e52d58744b58"
+      },
       "dimensions": [
         1024,
         1536
@@ -2451,6 +2675,10 @@
         "cover-f846596be001",
         "page-20-b7600efa4ec0"
       ],
+      "source": {
+        "file": "exec-4f20289e-86e4-4cec-95af-93307e1b07c2.png",
+        "sha256": "711579e1df076ccd2ba80c92d5f3c19d3e618bc095fdf0fd00a95a34a099ccd0"
+      },
       "dimensions": [
         1024,
         1536
@@ -2536,6 +2764,10 @@
         "cover-f846596be001",
         "page-20-b7600efa4ec0"
       ],
+      "source": {
+        "file": "exec-4e8d72f1-cbdd-4b6e-8615-ac112aacd954.png",
+        "sha256": "c4f2a39dc3c8d493b76303d4516db6d3e98ac0c1abd989b75a117423dd505062"
+      },
       "dimensions": [
         1024,
         1536
@@ -2614,5 +2846,5 @@
       ]
     }
   },
-  "postprocess": "Actual white gutter crops, layout fit, JPEG94, 4:4:4. Painted colour preserved."
+  "postprocess": "Actual white gutter crops; approved single-panel edits fitted to their original boxes with all outside pixels verified invariant. Layout fit, JPEG94, 4:4:4. Painted colour preserved."
 }

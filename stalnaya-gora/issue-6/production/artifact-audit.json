@@ -1,0 +1,898 @@
+{
+  "issue": 6,
+  "review_date": "2026-11-23",
+  "session_date": "2026-11-21",
+  "printed_pages": "96–123",
+  "story_pages_reviewed": 28,
+  "panels_reviewed": 140,
+  "covers_reviewed": 1,
+  "method": "Every panel reviewed individually at native image resolution. Arms traced from shoulders through sleeves to hands, with occlusion, perspective and scripted mutations checked against scene context.",
+  "image_edit_tool": "built-in image_gen",
+  "scripted_anatomy": "Franz has flesh-coloured tentacles replacing the right hand and elongated fingers on the left hand. Overlapping hands of two people are traced to their owners.",
+  "changes": [
+    {
+      "art_key": "97-4",
+      "category": "extra_hand",
+      "finding": "Klaus had three hands; the raised hand holding a tankard was disconnected from his body.",
+      "correction": "Removed the floating hand and tankard; kept the two connected hands at chest and table.",
+      "visual_recheck": "Passed at native resolution by a second reviewer and during final-page review.",
+      "before_sha256": "a9924a5f9cf19dc2a4ac8a9239f88cc219bafd859f1dd6bc60da9f47bf589c5c",
+      "after_sha256": "ffa923a52aaf7919e6b78dd3b8017cce15cb0bfc95ed85e8b0dcea9ca5d50e97",
+      "unchanged_neighbouring_panels_checked": true
+    },
+    {
+      "art_key": "96-2",
+      "category": "limb_laterality",
+      "finding": "A normal right hand reached toward the tree, conflicting with the right-wrist mutation.",
+      "correction": "Reflected the panel composition so the normal left arm reaches toward the trunk.",
+      "visual_recheck": "Left shoulder, elbow, forearm and five-fingered hand inspected in the corrected panel.",
+      "before_sha256": "a59d4de5469434c3ba904f00c39d60a2d5a299de7b760f3858cdeb676b356ffb",
+      "after_sha256": "f74ca52fad42ad28231f85c5795331dc0ac385296446a2fbea222354297bd310",
+      "unchanged_neighbouring_panels_checked": true
+    }
+  ],
+  "technical_checks": {
+    "all_141_images_decoded": true,
+    "unchanged_pixels_outside_repaired_boxes_checked": true,
+    "pdf_text_and_page_count_checked": true,
+    "cbz_order_crc_and_decode_checked": true,
+    "original_dialogue_text_preserved_checked": true,
+    "other_27_reader_pages_byte_identical_checked": true
+  },
+  "panels": [
+    {
+      "art_key": "96-1",
+      "sha256": "bacc7812cad77c565b1b6b1b96230de379d8a5251098d4510928d7f1a47bbb1e",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Правая кисть слева в кадре оканчивается телесными щупальцами; левая кисть на бревне. Два плеча, две руки."
+    },
+    {
+      "art_key": "96-2",
+      "sha256": "f74ca52fad42ad28231f85c5795331dc0ac385296446a2fbea222354297bd310",
+      "status": "corrected_and_rechecked",
+      "reviewed": "Франц показан сзади; поднятая рука по видимому плечу находится справа от тела и имеет нормальную ладонь. В storyboard требуется левая рука; вероятно перепутана сторона мутации. Третьей руки нет."
+    },
+    {
+      "art_key": "96-3",
+      "sha256": "9cb348fb39e414f16463ac57490f41dfd2cabfaf948634282df890c06cc6f0b6",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Портрет, видимые плечи непрерывны; дополнительных частей тела нет."
+    },
+    {
+      "art_key": "96-4",
+      "sha256": "a4bcae324bc9de6ac103bf2ba0dc9a278182857bb9334120370856a994c1541e",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Один поднятый указательный палец на левой кисти; большой и три согнутых пальца читаются. Предплечье прослежено к плечу."
+    },
+    {
+      "art_key": "96-5",
+      "sha256": "6ca5940f7dc1577832a236db362ad18f25120f2218e2642a26d3bafeb6da12ea",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две руки на бревне; правая слева в кадре щупальцевая, левая справа обычная."
+    },
+    {
+      "art_key": "97-1",
+      "sha256": "fa97561ec19be607e4a87df4f8a28f1fdfaf993dbf464df9e9581a9383714dfc",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Кисть на животе и кисть на постели связаны с двумя рукавами Клауса."
+    },
+    {
+      "art_key": "97-2",
+      "sha256": "1793b32d07a383e037678329c3d21cb07242ff337d35c71e1ea42eda438645d8",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две кисти по краям книги, обе соединены с рукавами; книга не сливается с пальцами."
+    },
+    {
+      "art_key": "97-3",
+      "sha256": "be80afe81cdcff78c6cf3c5d5d844472fba67825d30c8d63bd0e4acd05a0fd63",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Клаус касается двери одной видимой рукой; у двух рабочих видимые руки принадлежат их торсам."
+    },
+    {
+      "art_key": "97-4",
+      "sha256": "ffa923a52aaf7919e6b78dd3b8017cce15cb0bfc95ed85e8b0dcea9ca5d50e97",
+      "status": "corrected_and_rechecked",
+      "reviewed": "У Клауса одновременно кисть на груди, кисть на столе и отдельная кисть с кружкой у лица. Третья кисть не принадлежит рабочим; проверено также в итоговой page-97.png."
+    },
+    {
+      "art_key": "97-5",
+      "sha256": "caa714ac3d8112054168493b2b0bd7bfd9c13ab0a1f7eba2e466305f3da24796",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Клауса одна поднятая кисть, у лысого одна вытянута над бочкой, у бородатого две раскрытые. Перекрытие естественное."
+    },
+    {
+      "art_key": "98-1",
+      "sha256": "549984f0dcf7c2b3895d20e82adec75db66a7baf052aea1543314244a94c14b4",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Джека жест одной кистью; у Пиппин и Архивариуса по кисти с ложкой. Видимые локти и предплечья не дублируются."
+    },
+    {
+      "art_key": "98-2",
+      "sha256": "e34c93e05b9f276dddc768afd3471c0bb33caae2613fdb6529f22dc972ae31b1",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Рука Джека у рта прослежена к рукаву; Пиппин скрестила две руки, кисти частично закрыты тканью."
+    },
+    {
+      "art_key": "98-3",
+      "sha256": "f7d0bdaffbeb482f3475e8c29fd7aa9ebb64955e95278abffc3639aaa32992a1",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Джек и Пиппин держат ложки; руки Архивариуса и Попова отделены тканью и собственными торсами."
+    },
+    {
+      "art_key": "98-4",
+      "sha256": "8d7ed8de991717e30e469efa77a57653bf50bcfb4bd45a00c3d9f963b7c68e44",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Архивариус касается двери одной рукой, Джек жестикулирует одной; Попов держит сумку, Пиппин застёжку. Чужих кистей нет."
+    },
+    {
+      "art_key": "98-5",
+      "sha256": "0544656a5b86fa89095ac6749957670ec7ef6464db1f187aa9d7bfdd4427c7b9",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У обоих дерущихся дворфов по две руки на топорах; плечи, локти и хваты прослежены. Четыре спутника вдали, по две ноги, без дублей."
+    },
+    {
+      "art_key": "99-1",
+      "sha256": "4b691d69b2e6f18075cab349a5f60047540401d9c6aea97109542bb54081c502",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Три персонажа, одна кисть Пиппин у застёжки; открытые плечи и шеи целы."
+    },
+    {
+      "art_key": "99-2",
+      "sha256": "92cd14469f124c8007878ef54184b4fd402d204de573f82cbb028524b395d286",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Одна рука Джека у рта; Пиппин и Архивариус анатомически раздельны."
+    },
+    {
+      "art_key": "99-3",
+      "sha256": "616f5a8414e44b46233ef6ddaad0b239c97e92f16f7c7eff70cbbd4a98914b2c",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Джек прикрывает рот; Пиппин показывает одну ладонь; Архивариус скрещивает две руки."
+    },
+    {
+      "art_key": "99-4",
+      "sha256": "8e5305adedca8580ef9b0f450cfe7cdb7c74e21e15fef2344784207dae4321be",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две открытые кисти Джека принадлежат двум рукавам, поднятая рука Архивариуса отдельно; кисть Пиппин на груди."
+    },
+    {
+      "art_key": "99-5",
+      "sha256": "282271a6e5bea5bf4b0417f1e7b6972aca551a8e073e6bbb6cdecf236ac92634",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Обе кисти Джека лежат на разных плечах Архивариуса, прослежены к двум рукавам. Её опущенная кисть своя."
+    },
+    {
+      "art_key": "100-1",
+      "sha256": "baaf9ed578037e6b36fe8a75e9ea8b49fc0246a1becbbd9a35aadf752ed36686",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Три коленопреклонённые фигуры; руки молитвенные, ноги скрыты плащами естественно; дубликатов нет."
+    },
+    {
+      "art_key": "100-2",
+      "sha256": "70f6b0da195565de1b09e7f2083dad84477e3f01fdf81a205c347149499bb854",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Пиппин касается горла своей рукой; у Архивариуса две сцепленные ладони, пальцы перекрываются естественно."
+    },
+    {
+      "art_key": "100-3",
+      "sha256": "82653ce2c73c04efbd25de56776393f117a36d063464ce869aa63f75dc772802",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две сцепленные кисти Архивариуса; Инквизитор с одной видимой кистью, две ноги непрерывны."
+    },
+    {
+      "art_key": "100-4",
+      "sha256": "b3278de14f5078fc082b72274c5c3e1cc41b5b293de9fc7a6431a424431f53b4",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Франца две руки, правая слева в кадре щупальцевая, левая с длинными пальцами. Нижнее тело скрыто пшеницей."
+    },
+    {
+      "art_key": "100-5",
+      "sha256": "bc68d8949435dd94e1f7f704f486f610975211074e96c26aa33f96224a8aaa24",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две руки Франца: щупальцевая правая у волос, левая держит початок. Два работника на фоне, без лишних ног."
+    },
+    {
+      "art_key": "101-1",
+      "sha256": "07eb7fe354ec571c19ad0b5a0a0084248c72e6c7f51cbee25619da0684719c79",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Клаус осматривает две кисти с пальцами/присосками. Обе руки прослежены к рукавам; это его сюжетная фигура."
+    },
+    {
+      "art_key": "101-2",
+      "sha256": "4c68a427be9be81742d5e168b955772e2d69c9000b89b227740360d4c4e63074",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Клаус в приседе: опорная кисть, две ноги с ботинками. Три стражника на фоне без явных дублированных частей тела."
+    },
+    {
+      "art_key": "101-3",
+      "sha256": "f5880dbc533f6faf50aff4251e7787e31f1871c34a43deba16c05ad461d0d230",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Обе руки Клауса разведены; на каждой обычная кисть, пять пальцев читаются. Две ноги под платьем."
+    },
+    {
+      "art_key": "101-4",
+      "sha256": "b6aa99e3a9a09810cc193d6225b9b999d29ee9bc6fa0fa913228386b6a6db452",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две кисти Клауса на подоконнике, каждая из своего рукава."
+    },
+    {
+      "art_key": "101-5",
+      "sha256": "8189a0ba4471530b6ccf4ca60ad844bff6e0dd8d7e9501433626540a99a689ad",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Клаус наклонён вперёд, две руки направлены вниз; меч держит отдельная рука стражника слева. Три стражника раздельны."
+    },
+    {
+      "art_key": "102-1",
+      "sha256": "e63a400a971c767b98ffd32a931369e3b6832d15dc03555e15578a7f3904d865",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Два дворфа держат по одному топору двумя руками; ноги частично за краем, явных дублей нет."
+    },
+    {
+      "art_key": "102-2",
+      "sha256": "4fef47612741f3130a5f8e83ce333998cbf7e31c0f5defc673c237b36a9d3e46",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Джека две открытые кисти; у Попова одна с конфетой, другая с сумкой; у Пиппин скрещённые руки. Все принадлежат фигурам."
+    },
+    {
+      "art_key": "102-3",
+      "sha256": "ffaed32389d54401ff6f3ba2ed8c286e9c7955b7f3b328dc04482cd97f8099bb",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Четыре спутника идут по земле с двумя ногами каждый; лошади и карета на суше. Перекрытие конских ног естественно, лишние не подтверждены."
+    },
+    {
+      "art_key": "102-4",
+      "sha256": "c85b3d7e53822582ac4472f86ad9daf655f8776dd32b40b8376bca5db4aefed8",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Архивариус открывает замок собственной кистью, Джек держит шляпу. Пальцы и реквизит отделены."
+    },
+    {
+      "art_key": "102-5",
+      "sha256": "201be3ec216237a5fbb40489f2d71c42e927841a9794e15b910da856d5f0c852",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Пиппин опирается подбородком на две руки, Архивариус раскрывает книгу двумя руками; Попов держит спинку, Джек засов. Кистей сверх состава нет."
+    },
+    {
+      "art_key": "103-1",
+      "sha256": "3f368b69a0cd5cf75d56a795f88e6901387d9bf1f4904150f4df6f30be5ea830",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Джек раскрывает две руки из двух рукавов; у Архивариуса одна под подбородком и другая на столе; руки Попова скрещены; руки Пиппин на подлокотниках."
+    },
+    {
+      "art_key": "103-2",
+      "sha256": "c3c76385078e9db90bb0c86b7ac3e93cc459d8b6d738ee1d287bf5e0299185cb",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Падающая печатка между отдельными кистями Джека и Попова; у ловящей ладони четыре пальца и большой, без шестого."
+    },
+    {
+      "art_key": "103-3",
+      "sha256": "667178b9cb94985aa445a05f6a0bed5d62e0ef2ab5d19b7cd62f4ec1dcd7e384",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Одна кисть Джека поднята у груди; Пиппин и Архивариус скрестили руки. Перекрытые кисти не лишние."
+    },
+    {
+      "art_key": "103-4",
+      "sha256": "cec86475b1c2385d485d005b2533407015aed9932256d62a46233840e31d367d",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Джек опирается на стол двумя руками, одним указательным пальцем указывает на бумагу; кисти двух женщин под подбородками свои."
+    },
+    {
+      "art_key": "103-5",
+      "sha256": "fe8a1043e1046616ffbfde1d04d9160b7740bcbbf2448a4223ace98fbf656b3e",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две руки Джека: одна на груди, другая вытянута назад. У Пиппин руки скрещены, Архивариус отдельно."
+    },
+    {
+      "art_key": "104-1",
+      "sha256": "66c9e68ce29a130957c2c2c67498d82bb3b9edde784d63ea8c8785ca98220061",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Архивариус кладёт длинную руку на план, вторая согнута у груди. У Джека ладонь жеста и опорная кисть на столе — ровно две."
+    },
+    {
+      "art_key": "104-2",
+      "sha256": "c6bc0e5b54788a0040e2053dd0942e8651c0a6d904597eebf0991ac4c320df8c",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Джека указующий палец, у Архивариуса раскрытая ладонь, у Попова кисть с печаткой. Все из соответствующих рукавов."
+    },
+    {
+      "art_key": "104-3",
+      "sha256": "8c0e1f3d03f661fe435acd2c2d77e47b64121582d2cbb47f71470908d4e78272",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Джек широко разводит две руки; руки остальных трёх не сливаются с его рукавами. Четыре фигуры."
+    },
+    {
+      "art_key": "104-4",
+      "sha256": "9e9f6baee2204a183dec70af562616b3e7218f2cf55b3ff03eef6dfdfdcf491f",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Пиппин поднимает указательный палец, вторая рука лежит на столе. У Джека кисть под подбородком; у Архивариуса своя на столе."
+    },
+    {
+      "art_key": "104-5",
+      "sha256": "b0bcb13cb27fe8cf1f4cab106e870b3e7d39bf8b10d8cf5b61cf703fa785a749",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Архивариус слушает у двери с одной видимой ладонью; кисть Джека на стуле; руки Пиппин и Попова скрещены. Отдельных лишних кистей нет."
+    },
+    {
+      "art_key": "105-1",
+      "sha256": "55d13ffac47fef83d00c288cfccb4e2811d950605468d1814e70b7f78d81b961",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Четыре физические фигуры и предусмотренный storyboard растворяющийся силуэт. У Архивариуса две руки жеста; у Джека кисть на стуле. Силуэт не ошибка дублирования."
+    },
+    {
+      "art_key": "105-2",
+      "sha256": "e4db3b44ee3951d9acf966d786905118c1abf71992fa0b84eae4f4268f5eb655",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Джек показывает две перекрывающиеся открытые ладони. Небольшой палец за основной ладонью относится ко второй руке, не подтверждает шестипалость."
+    },
+    {
+      "art_key": "105-3",
+      "sha256": "4f9b5f20319f07f4c16491203d97f9825a56bde81413a9b5e3e7e47cc12b620d",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Джека рука на груди и открытая ладонь ниже; у Архивариуса кисть под подбородком; у Попова руки скрещены. Четыре физические фигуры."
+    },
+    {
+      "art_key": "105-4",
+      "sha256": "e1239f8c1c763dfc9f772712f92f25bb5f8eb5ec54cdb4c36ab26cfd1e1e35a0",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Одна открытая ладонь Архивариуса в перспективе, пять пальцев с перекрытием. Случайной руки у Джека нет."
+    },
+    {
+      "art_key": "105-5",
+      "sha256": "4acbecc2383f9c092fa402fe7634badd0706ac5b2f64f57353f0adf3c34c36a9",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Джек держится двумя руками за подоконник, Пиппин жестикулирует, у Попова две кисти на подлокотниках. Ноги Пиппин короткие взрослые и раздельные."
+    },
+    {
+      "art_key": "106-1",
+      "sha256": "433497a1bb824f573d5a4415a084395e6c7a0113c3ed05e46d0eab60434b5822",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Кисть Джека держит занавеску, два прибывших мужчины имеют отдельные фигуры и ноги. Упряжка на суше, ноги лошадей перекрываются естественно."
+    },
+    {
+      "art_key": "106-2",
+      "sha256": "45c2adcf7226938393a1f40b55760b1f12c6d5309dbedf3e74accc6276c229c7",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Чёрные нити за спутником Инквизитора — магическое восприятие по storyboard. У мужчины две ноги и видимая обычная кисть, физической лишней конечности нет."
+    },
+    {
+      "art_key": "106-3",
+      "sha256": "bcd0cb0aa73cfa43cce2a996fc2b8ca6aa664d08a68fb2c3bc82dc230792fe36",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Попов держит конфету одной рукой, Джек кинжал своей рукой; две руки легко прослежены к разным торсам."
+    },
+    {
+      "art_key": "106-4",
+      "sha256": "5c7dedefa3ef6265fbff2b7d1839ab820a0e47cc66e1045a197175b2e21adc49",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Пиппин под столом: две кисти на двух концах пращи, две ноги согнуты и заканчиваются двумя ботинками. Предмет не сросся с руками."
+    },
+    {
+      "art_key": "106-5",
+      "sha256": "b9236be91d76db9aa910beda533f5633add0ad7341cebeb0bb54d35668c3531c",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Архивариус поправляет одежду двумя своими руками, Джек держит кинжал одной. Ботинки в щели двери принадлежат внешнему персонажу."
+    },
+    {
+      "art_key": "107-1",
+      "sha256": "634be9c846f2488069bfa5854dd2679eb045f247cd1e9f332c1f0f2b307a604c",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Пять видимых фигур; Пиппин скрыта по storyboard. Кисть Инквизитора на двери не принадлежит Джеку; правые конечности спутника раздельны."
+    },
+    {
+      "art_key": "107-2",
+      "sha256": "907ec8797c642932ff2d43e78fdf9c5c2b272d295be28b97ae979f1b667d8dec",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Джек отпускает кинжал возле ботинка, открытая ладонь имеет пять пальцев. Видимая нога связана с бедром, вторая вне крупного кадра."
+    },
+    {
+      "art_key": "107-3",
+      "sha256": "396d1a14e52999108b1b2b6d850a1c2fbf67408cd67a209db1160d363b0b1826",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У сидящего спутника два предплечья на подлокотниках и две ноги с ботинками на столе. У Инквизитора рука жеста и опущенная рука. Пять фигур без Пиппин."
+    },
+    {
+      "art_key": "107-4",
+      "sha256": "b70e4497c43df817e659e9308e572ef216052b0cba027dac52ab96fede47f46b",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Инквизитор указывает одной рукой, Джек держит ладонь на груди; женская фигура отдельно. Хват/палец в перчатке читается."
+    },
+    {
+      "art_key": "107-5",
+      "sha256": "50e3022aebaff52a3cc46e57f50e2cfd0dbce38f91e4eb080476095a98f6909c",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Под столом Пиппин с двумя руками и двумя согнутыми ногами; два ботинка наверху относятся к сидящему спутнику, не к ней. Видимая перчатка Инквизитора своя."
+    },
+    {
+      "art_key": "108-1",
+      "sha256": "bc3c37bb464e3cda9b88eeec2b18382763761f20ed3387cbe6f6d99fe6407adb",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Джек придерживает дверь одной рукой и раскрывает вторую; Пиппин с отдельной кистью у стола. В дверной щели лицо Инквизитора, без дубля руки."
+    },
+    {
+      "art_key": "108-2",
+      "sha256": "7f99676dc05cd5e6bfbd1bdd0cca4335e145ae113f70fba9dc83f318586be827",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Инквизитор бьёт одной поднятой ногой, вторая опорная; видимая перчатка из своего рукава. У Джека две поднятые руки. Дверь одна."
+    },
+    {
+      "art_key": "108-3",
+      "sha256": "5e3a4933e2c567d6bb7230ce199768f08e2b24e9a5f137be1d76db31d28743d0",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Джека ровно две раскрытые руки, у Архивариуса скрещены две; Пиппин держит кисти перед собой. Четыре фигуры."
+    },
+    {
+      "art_key": "108-4",
+      "sha256": "846b08f7a6d1e082e8f2df3e580cbcbc31521bf48010a4d56cee8f694a44f735",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Пиппин касается спины Джека своей поднятой рукой. Перчатка отказа принадлежит Инквизитору, опущенная кисть Джека ему. Четыре фигуры."
+    },
+    {
+      "art_key": "108-5",
+      "sha256": "e28ad4ee2cc36c3965291c522399bbeacf7bff707ebb690f4deb84c9d3c45fa1",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Шесть персонажей. У Джека одно колено поднято, второй ботинок опорный; две кисти спутника раздельны, тёмные нити — магия. Чужих конечностей нет."
+    },
+    {
+      "art_key": "109-1",
+      "sha256": "a4bfbf33a1a0d1f77076fada41e9340deb811ddb45cdad8a1c404cab6d4f0c1a",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Шесть персонажей, у колдующего спутника две обычные кисти с пятью пальцами. Крылья дымовые по storyboard, не лишние физические конечности."
+    },
+    {
+      "art_key": "109-2",
+      "sha256": "634dc2702c0683d0fbbe53ff63905f553e2b369b105245d68bab7b791bec58dc",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Четверо протагонистов в дыме, отдельные лица/плечи. Кисти Пиппин и Архивариуса на собственных плащах; мороз и дым не приняты за руки."
+    },
+    {
+      "art_key": "109-3",
+      "sha256": "8913f02d0af40e5ec3ece123278b94fe9cb6bd4e42a2bbc62a53f313e40b9e8e",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Попов с одной кистью под подбородком; отдельная фоновая фигура спутника. Дымовая нить сюжетная, не анатомическая."
+    },
+    {
+      "art_key": "109-4",
+      "sha256": "005cf5308aedae9a4758df5d83dea38e9597c2d75b574dc1c96c30b99e5250d4",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Попов поправляет очки одной рукой, другая на столе. Спутник и Инквизитор оба физически присутствуют с отдельными фигурами."
+    },
+    {
+      "art_key": "109-5",
+      "sha256": "8cb127f657991e489dd1cf046fbdfe97bb35def8d53b23a633dd25e0dde61649",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Пиппин держит записку одной кистью; Инквизитор отказывает собственной перчаткой, Джек держит дверь, спутник уходит отдельно. Четыре фигуры."
+    },
+    {
+      "art_key": "cover",
+      "sha256": "76bc4cf4ed513be37566f2fa02e9aaa115c674f8476bec2bd8807631682dc898",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У всех четырёх персонажей по две прослеживаемые руки. Попов держит две ложки. Открытая кисть Пиппин сильно ракурсная, часть пальцев согнута/перекрывается; уверенной лишней конечности или шестипалости нет."
+    },
+    {
+      "art_key": "110-1",
+      "sha256": "b2e417656908b4e993b9c8f0f9f07797bd8906eca8952920bcfec0ecd3de02ec",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две руки прослеживаются от плеч; правая кисть со щупальцами является сюжетной мутацией, левая цельная. Ноги скрыты растениями."
+    },
+    {
+      "art_key": "110-2",
+      "sha256": "13efd566381b80a732760e527be556ed82d3adf427416ed0c0261694b8325f41",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Два плеча, две руки; щупальца только справа. Видимая нога связана с тазом, остальная окклюзия естественная."
+    },
+    {
+      "art_key": "110-3",
+      "sha256": "4df965624c90c704f47e44555088defa8d9fd4424ab384deb3946cbbc19f7181",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Обе руки связаны со своими плечами; свисающие телесные щупальца на правом запястье соответствуют мутации."
+    },
+    {
+      "art_key": "110-4",
+      "sha256": "1826ecb6921a6a59998618c87c8002c1b95107dbf1d7a207d805bb95dfd221df",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две руки от плеч; левая держит палку, правая опирается мутировавшими отростками. Лишних конечностей нет."
+    },
+    {
+      "art_key": "110-5",
+      "sha256": "2a795278735442fefe6c244cb017c49e6b117950fb5da29193b43f1636153411",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Франца одна видимая правая рука с телесной мутацией; вторая скрыта корпусом. За столом ровно двое, их руки и ноги не дублируются. Лошади за оградой отделены от людей."
+    },
+    {
+      "art_key": "111-1",
+      "sha256": "4d90dc90374f3d5041edbf39abdfab462e4a8ddc79df547ba61253c44a9aa168",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Франца две руки, правая заканчивается щупальцами. У двух игроков по две руки, ноги прослеживаются к собственным туловищам, перекрытия столом естественные."
+    },
+    {
+      "art_key": "111-2",
+      "sha256": "95e42d0a15c2f60ba176d4b5a819818a7d0b396ea2c6907800ed39006a44f177",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Единственная видимая рука заканчивается сюжетными телесными щупальцами; вторая скрыта торсом и листьями. Два фоновых игрока не дублируются."
+    },
+    {
+      "art_key": "111-3",
+      "sha256": "7b5828be42e10936b2a506d1dcfc52c5ed455b35f99d2d9d84116981b37c5e65",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две кисти соединены с соответствующими предплечьями, правая мутировала; пальцы левой удлинены без отдельной лишней кисти."
+    },
+    {
+      "art_key": "111-4",
+      "sha256": "147b2a91f878a5aed32387240640e0adc7988ceffce54494b3d2aed4a4a59492",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Одна голова, спина и два плеча; обе опорные руки идут от плеч. Справа по телу щупальца, слева удлинённые пальцы; ноги закрыты позой и кукурузой."
+    },
+    {
+      "art_key": "111-5",
+      "sha256": "74131f1df69a50e2bfeda3b1df92cbb3520086389318e455c795dbdc633a23a8",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Одна спящая фигура, видимая рука соответствует плечу; затемнение и естественная окклюзия не приняты за дефект. Дверной проём встроен в стену."
+    },
+    {
+      "art_key": "112-1",
+      "sha256": "824e10af40b6e38460a7272b58685824e879667af7193e91b12272c9741fc33a",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Ровно четверо. У Джека две руки: жест и дверная ручка. Скрещённые руки Пиппин соединены с рукавами; руки доктора и Архивариуса скрываются естественно. Лишних конечностей нет."
+    },
+    {
+      "art_key": "112-2",
+      "sha256": "cdc4fd75f98364a05074b93908648e3d315d8167b1d68e5064babecdb59ee300",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "По одной поднятой руке у каждого; другая рука доктора внизу, Джека скрыта кадром. Пальцы на жестах разделены, чужих кистей нет."
+    },
+    {
+      "art_key": "112-3",
+      "sha256": "d6f2f7bc55112a74fb7f4ccc1943fb8b7d9624e26d0603d7828693accc7a2fb1",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Доктор жестикулирует двумя руками; Джек скрестил две руки; Пиппин и Архивариус подпирают подбородки своими кистями. Естественные перекрытия не дают лишних рук."
+    },
+    {
+      "art_key": "112-4",
+      "sha256": "7ae9808e3971007fe4805d6e195f9169c4951850b9a725f1dcb5507f6143c748",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Архивариуса две кисти: три поднятых пальца и указательная другая. У Джека две руки от плеч, одна на колене, другая на рукояти кинжала. Две согнутые ноги связаны с тазом."
+    },
+    {
+      "art_key": "112-5",
+      "sha256": "8b2fa64d0b63eea00084fee03977158de73ac5ea368a8f76650f682b31b13ca6",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У доктора одна кисть охватывает ручку сумки, вторая частично перекрыта; у Джека одна рука с кинжалом и скрытая другая. Руки Архивариуса и скрещённые руки Пиппин не дублируются."
+    },
+    {
+      "art_key": "113-1",
+      "sha256": "25c987c584824cb86b8ed649fcf240f2672575d2eded968ea8621f4724e28e37",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Четыре героя, у Джека две ноги и одна видимая опущенная рука; другая перекрыта корпусом. Одна видимая рука Пиппин своя. Лишних рук и сращений со столом нет."
+    },
+    {
+      "art_key": "113-2",
+      "sha256": "739503123d839b00cf9a9736390ecee84c97e19a47fe924a81b41dbdf34afc0f",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Джека одна поднятая кисть с пятью пальцами; другая рука скрыта плащом. У Архивариуса две руки: жест и кисть у дверного косяка. Пиппин отдельно, её рука не срастается с Джеком."
+    },
+    {
+      "art_key": "113-3",
+      "sha256": "f0ea28dbb1861b9a2c2807493d73c0e3067a0ae467138d8ce41d3d47936dd98c",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Джека две руки на лице и две согнутые ноги. У Пиппин видимые кисти/рука принадлежат её фигуре, ноги отделены от сапог Джека. Корабль в воде, трап на причале."
+    },
+    {
+      "art_key": "113-4",
+      "sha256": "c73bebd6f048b4e0749621ff7ca24ad92a2d1308c8b4ecb21e04ee8cda68618c",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Архивариуса две кисти по сторонам книги/сумки, обе связаны с рукавами; у доктора две руки, одна с сумкой, другая в жесте. Кисти не срастаются с ручками."
+    },
+    {
+      "art_key": "113-5",
+      "sha256": "5e55851bbb49ef2c07b90d7ace9961009f05ffde7f69b0ab4926ba6fbdb5e737",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Архивариуса две руки: дверь и сумка. У доктора видимая кисть идёт от плеча через рукав, вторая скрыта телом. Дверь связана с косяком, нет лишних кистей у края."
+    },
+    {
+      "art_key": "114-1",
+      "sha256": "2e048340bec46da22937b593fee40ca8b849794bd67286a4c150bfc132b6df48",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Клауса две обычные руки: одна на пояснице, вторая опирается рядом с корпусом; ноги укрыты тканью. Щупалец Франца нет."
+    },
+    {
+      "art_key": "114-2",
+      "sha256": "6a09dd77a768fe1d392a5e0dae85b279f3f43f250146d08fe0b4c5cdfe3923b6",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две человеческие кисти принадлежат двум рукавам, хват ножа и палки читается. Небольшая ранка на кисти не лишняя конечность; щупалец нет."
+    },
+    {
+      "art_key": "114-3",
+      "sha256": "b0d6012c4c217bbea9284b21616dbaa73df24110fb7f13c64b42808e3b47fead",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Клауса две руки: поясница и нож. Стражник подпирает голову одной рукой, вторая на бедре; скрещённые ноги читаются. Две фигуры не срастаются."
+    },
+    {
+      "art_key": "114-4",
+      "sha256": "9e0226e3fad955007bf3fa34feefe3573146e8de7e8c2c699a6bcc4d3991bcb3",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Четыре головы, у переднего стражника две руки в жесте; у Клауса одна видимая поднятая рука с пятью пальцами, другая скрыта телом. Скрещённые руки центрального мужчины без лишних кистей, задняя фигура естественно перекрыта."
+    },
+    {
+      "art_key": "114-5",
+      "sha256": "d146c6c5ed71a991647c8905e7aa835d1958c43e7c9a1cae0ed321881804199c",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две руки: нижняя согнута под головой, верхняя проходит за корпусом и заканчивается на боку. Пальцы обычные, лишних конечностей и сращения с ножом нет."
+    },
+    {
+      "art_key": "115-1",
+      "sha256": "f742c9f8d237b657c68f1eaa15e6ce9ad392f1273943f1b27809b0c985345ca2",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Ровно два героя. Одна опущенная рука у каждого видна, остальные закрыты корпусом/плащами. Масштаб взрослой низкой Пиппин сохранён."
+    },
+    {
+      "art_key": "115-2",
+      "sha256": "f0dfece1905a2ae95d547bee9cd90ecdbce8b655a8d8b4553c0712de59e748cd",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две руки Джека прослеживаются от плеч через рукава к её плечам. Руки Пиппин скрыты снизу, лишних кистей нет."
+    },
+    {
+      "art_key": "115-3",
+      "sha256": "49d3db7cbb360fb5720bc11fbfa419b43ef351a6db1dfd407d3c4906bcbf5086",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две ладони Джека лежат на её плечах, Пиппин кладёт сверху две свои ладони. Её два запястья переходят в светлые манжеты; ближняя рука Джека в кожаном рукаве, дальнейшая часть другой естественно закрыта фигурой Пиппин. Итого четыре руки двух героев, не дефект."
+    },
+    {
+      "art_key": "115-4",
+      "sha256": "4a9f33b1f0dda9334a30ef286877e2563bb8eab192fb6a9c5c09960721c71af2",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "По одной жестикулирующей кисти у каждого героя, другая рука скрыта одеждой. Поднятые большие/указательные пальцы и согнутые остальные не дают лишних кистей."
+    },
+    {
+      "art_key": "115-5",
+      "sha256": "ffca1b5e52bbe9ddc2139d5d188142d5b75dc5bc640b7a4871b701bca92c982a",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Джека две руки: опущенная и на её плече. У Пиппин две руки: опущенная и поднятая ладонью. Плечи/манжеты связны, дополнительных конечностей нет."
+    },
+    {
+      "art_key": "116-1",
+      "sha256": "ce10a90fb2311ab4f5a40eda238da90f25ed4f3ef252388eb18ca2aaea618e31",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Джек жестикулирует одной рукой, другая в кармане; у Пиппин две руки в карманах. По две ноги с понятным шагом; фоновые люди отдельны и без явных дублированных конечностей."
+    },
+    {
+      "art_key": "116-2",
+      "sha256": "cad2600afd06fdf18f0af2104c8e787bfbf69475193f24c8702d06a47b6e2369",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Одна взрослая голова, округлое ухо, медные кудри и веснушки; конечности вне кадра. Удвоений лица нет."
+    },
+    {
+      "art_key": "116-3",
+      "sha256": "b057bf4e4e0e4dde31695bf64e736924c84aa26b380043bd0f2ace20a8fe747e",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У каждого по две руки, движения читаются от плеч. Пальцы Джека отделены от шарфа и рукава, лишних кистей/ног нет."
+    },
+    {
+      "art_key": "116-4",
+      "sha256": "2e549a773f928106d9c090ef5723181cf4809b47db45902384a44821f4f2d52e",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Джека одна видимая жестикулирующая рука; Пиппин скрестила две руки, кисти соединены с манжетами. Сращений и лишних пальцев не подтверждено."
+    },
+    {
+      "art_key": "116-5",
+      "sha256": "8ecae949d35c52de30f009e5d12cb33f549df04443a863fa218062283951075f",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Кисть соединена с рукавом, большой палец и сгруппированные остальные пальцы анатомически допустимы; вторая рука вне кадра. Пиппин отдельная фигура."
+    },
+    {
+      "art_key": "117-1",
+      "sha256": "67a63aa5d22bb4c312b63551288f3685b9dbdcb1f598bca563d4e27b6d36056d",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Пиппин разводит ровно две руки, оба предплечья идут от плеч через манжеты; кисть Джека принадлежит рукаву и касается своей сумки. Других рук нет."
+    },
+    {
+      "art_key": "117-2",
+      "sha256": "59327d505964360a6d35993656ae272b693e99cee425b07aac46439a7b70fc4d",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "По одной поднятой кисти с большим и указательным пальцами, остальные пальцы согнуты. Вторые руки опущены/в кармане; лишних конечностей нет."
+    },
+    {
+      "art_key": "117-3",
+      "sha256": "49bcbeaf5d51228a99c70ce1b7588a2ca6ad16147115b5050ac230f17ab1288f",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Обе видимые кисти связаны с собственными рукавами. У Пиппин поднят один указательный палец, у Джека пальцы в разговорном жесте без удвоения кисти."
+    },
+    {
+      "art_key": "117-4",
+      "sha256": "92dea0647918af047fad00a5d47de4c5e1e4781f9855e90f2d03920786ff9305",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Ровно три фигуры. Поднятая ладонь стражника с пятью пальцами соединена с предплечьем; вторая рука скрыта. Руки Пиппин под плащом, рука Джека у кармана, нет посторонних кистей."
+    },
+    {
+      "art_key": "117-5",
+      "sha256": "d9153f0ee4e04c15411032ade2dfb7e45918f2db1948ec1dfd905858243e4c20",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две ноги Джека: опорная и поднятая с согнутым коленом, оба сапога соединены с брюками. Две руки, одна ладонь слева, другая у сумки/скрыта. Две ноги Пиппин обычные, третьих фигур кроме дальнего стражника нет."
+    },
+    {
+      "art_key": "118-1",
+      "sha256": "1fc45707e91d274a9cd83fe0d89fffa3a912d372c8e134b682db02cf411a672b",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Доктор держит два вывернутых кармана двумя кистями; у Пиппин две руки на лямках, у Джека и Архивариуса видимые руки связаны с плечами. Фоновые прохожие не дублируют главных героев."
+    },
+    {
+      "art_key": "118-2",
+      "sha256": "2f5b91c0e46bf67b6bcdae9f8784d2834033aad28338e87addaa16a1dca64f5f",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Одна видимая кисть Джека удерживает рукоять ножа, лезвие отдельно. У Пиппин две скрещённые руки; доктор за ней естественно перекрыт, лишних кистей нет."
+    },
+    {
+      "art_key": "118-3",
+      "sha256": "b00505faddf71eeb7f6353cb4c03c30c0eff05fea76bf8646097a9607135e883",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Четыре отдельные фигуры. Поднятая рука Архивариуса со своим предплечьем и манжетой, у Пиппин одна видимая опущенная рука. Ноги в ходьбе связаны с телами, фоновые люди отделены."
+    },
+    {
+      "art_key": "118-4",
+      "sha256": "a2f73b0a11ac3f8cf238c2c351fbf6f770b34a3b728282154ebc61caca3f724f",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Три передние фигуры. У служки две руки: одна под подносом, одна ладонью вверх; кисть под подносом не отдельный персонаж. У доктора жест одной рукой, у Архивариуса кисть у подбородка. Фоновые гости без явных лишних голов/конечностей."
+    },
+    {
+      "art_key": "118-5",
+      "sha256": "8c2083ace8a89a85c915b7e3584a86f233dd724d432681fd7133a74fa10e3541",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У доктора две жестикулирующие руки и две ноги: согнутая поднята, другая опорная. Пальцы обеих кистей отделены; у Архивариуса одна видимая рука на двери, другая скрыта плащом. Халат не создаёт дополнительного тела."
+    },
+    {
+      "art_key": "119-1",
+      "sha256": "228267d44f3f30d6118dd17e7acd911b24925ca1ac0e39675ce627ceea3bf426",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Ровно две руки у каждого. Ладони доктора показывают по пять пальцев; Архивариус держит яблоко одной рукой и другую у груди. Руки не срастаются с креслом или яблоком."
+    },
+    {
+      "art_key": "119-2",
+      "sha256": "a0c6d9d6077821867fc800aba53f92446ec68e2df2193b8cca91068c6c54bb27",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Доктор держит яблоко одной рукой, другая перед грудью; Архивариус касается его двумя отдельными кистями. У доктора две ноги в шаге, видимые ноги Архивариуса согласованы с юбкой."
+    },
+    {
+      "art_key": "119-3",
+      "sha256": "26c87cc5c92f0d1feaa3a8eb6d4934799c44b6d52b0c0248ae8e05587fe571d5",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Кисть доктора с яблоком связана с рукавом; у Архивариуса две руки, обе прослеживаются. Поднятая ладонь с пятью пальцами, другая согнута у груди."
+    },
+    {
+      "art_key": "119-4",
+      "sha256": "7e182f3cbeaa2032b05231d47af993647665f7e7381591e96fffc47e18de89ac",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две руки доктора: яблоко перед ней и раскрытая вдаль. Кисть Архивариуса перед корпусом своя, другая вне кадра; лишних конечностей нет."
+    },
+    {
+      "art_key": "119-5",
+      "sha256": "0b9a14835b4f77da0ab239768308fef82390724c4eb37787b2691aff3b1e41e1",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Доктор в рубашке и жилете, снятое зелёное одеяние отдельно в двух руках Архивариуса. У бегущего доктора две ноги и две руки, одна с яблоком; полы ткани не приняты за дополнительную фигуру."
+    },
+    {
+      "art_key": "120-1",
+      "sha256": "28ac484c9a3865e7b870bda9434f38b00aaec6b4b5ca886e3061eca1129f74de",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Одна фигура, кисть под подбородком своя, вторая скрыта. Справа ровно три завязанных свёртка; горлышки бутылок в других отделениях не дополнительные свёртки."
+    },
+    {
+      "art_key": "120-2",
+      "sha256": "a5bf38e1558fad64477178de539328bc60a002eaeaf0287f5185fd818e95864a",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Обе кисти принадлежат рукавам; пальцы не срастаются с бумагой. Два готовых свёртка и один открытый с баночкой дают ровно три."
+    },
+    {
+      "art_key": "120-3",
+      "sha256": "c1dfa6e09c47137347dc479ea5e4668bdbf7fbb2f5aef002201537288d996bb9",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У доктора две открытые ладони, по пять пальцев в жестах. У музыканта две руки: шейка скрипки и смычок; ноги под столом/на переднем плане не дублируются. Фоновые гости отдельны."
+    },
+    {
+      "art_key": "120-4",
+      "sha256": "3d5fe09c35eafcfe6f46167e1ade29f69b35ab2bb19bc526d1b99c721594f904",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две руки музыканта: ладонь вверх с пятью пальцами и кисть у шейки инструмента. Смычок опирается рядом с удерживаемой скрипкой, дополнительной руки нет. Доктор подпирает подбородок своей кистью."
+    },
+    {
+      "art_key": "120-5",
+      "sha256": "6ae3b4fff3aa73d22584efb9fd5d60e6b1365634db9808718a29933dd4dfdfbb",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две кисти: одна отводит край плаща, другая держит свёрток у груди; второй свёрток виден в кармане, остальное естественно закрыто тканью. Лишних кистей или множества добавочных свёртков не видно."
+    },
+    {
+      "art_key": "121-1",
+      "sha256": "89b9333184511c57be75d49358a528b56e15a1e947de66723447cfcbc3fe75e9",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Пиппин две руки: касание локтя и раскрытая ладонь; Джек с двумя руками в карманах. Две ноги каждого согласованы с шагом/перекрытием юбкой."
+    },
+    {
+      "art_key": "121-2",
+      "sha256": "39dd1dc653826a5b1dce76e39cc01853749671f4936a6b08a3230ca107b20643",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Джека две руки: кисть на колене и кисть у печатки; обе идут от плеч. Две согнутые ноги, без добавочной опорной ноги. У Пиппин две сцепленные кисти, обычные ноги."
+    },
+    {
+      "art_key": "121-3",
+      "sha256": "9a17dacf567e465783f99d2110f575dce0b1095751fa1c6446473bd28526ece0",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Ровно две ноги Джека, каждая заканчивается сапогом на столе; скрещены две руки, без третьей кисти. У Пиппин одна видимая кисть на боку, вторая закрыта плащом."
+    },
+    {
+      "art_key": "121-4",
+      "sha256": "f89eec2248a4a2c7de3016801a2848316ce22d8174d0bd7dcb2712f76db42247",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Кисть Пиппин связана с манжетой, её пальцы сгруппированы естественно. Рука Джека от собственного плеча к кулаку у рта, вторая скрыта. Сращения между героями нет."
+    },
+    {
+      "art_key": "121-5",
+      "sha256": "7210827269efa68499c71f4956755a1902f3637706c83fa2e52246f7b851a067",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две руки Джека с раскрытыми ладонями, по две ноги у обоих в ходьбе. Кисти Пиппин в карманах, дополнительные конечности отсутствуют."
+    },
+    {
+      "art_key": "122-1",
+      "sha256": "724f6dd58def02953729044a8edae90985c4fa48ff819455e8d969bec77aed27",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У доктора две кисти у застёжки, у Архивариуса одна рука с яблоком и вторая ладонью вверх. Все предплечья связаны, предметы отделены; лишних рук нет."
+    },
+    {
+      "art_key": "122-2",
+      "sha256": "3f16542e72cf951e2f324132a5c949d78e63f002b7e807459f66e8f356558786",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Архивариус держит два края покрывала двумя руками. У доктора две руки: одна поднята, вторая у дверного края справа. Ткань не создаёт дополнительную фигуру."
+    },
+    {
+      "art_key": "122-3",
+      "sha256": "a46e530867fa4617c7f0d49ddcfc1f6c39f349352bfb373c1ca992772cff89d3",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Архивариуса две раскрытые ладони с пятью пальцами, обе связаны с рукавами. У бегущего доктора две ноги, одна сильно перекрыта плащом; нет лишнего сапога. Проход ведёт в коридор."
+    },
+    {
+      "art_key": "122-4",
+      "sha256": "06e89b936fc45b5750e01ce847aa58374c94be6889349ca194556c1554b9773b",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Коридор с полом, стенами и лестницей непрерывен. У Архивариуса две руки: одна вдаль, другая на животе; у доктора две ноги в беге и руки под плащом. Явных лишних конечностей нет."
+    },
+    {
+      "art_key": "122-5",
+      "sha256": "48b0a5dbef82e3b6641743af9923cc6f4acf90584c041073ae4cf929cfd1e4d3",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две руки доктора держат две ложки, обе связаны с плечами; две разведённые ноги. Ручки кружек/ложки не срастаются с кистями. Фоновые люди имеют отдельные головы и собственные видимые конечности."
+    },
+    {
+      "art_key": "123-1",
+      "sha256": "87f98b4c67d7c247aa49c4d3c0a30f3cac4769d8a407929c619809a8bc201c6c",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Архивариуса две руки: монеты и указательный жест. У музыканта две ладони чашей, обе связаны с его предплечьями. У доктора ровно две руки с ложками. Фоновые посетители без явных анатомических дублей. Волосы Архивариуса ещё собраны до следующего действия."
+    },
+    {
+      "art_key": "123-2",
+      "sha256": "83120dae02c7ce311f3263cdaf8eb4ccc6c21b2cc4451f84b89bdcd535236bf7",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Две руки: одна у волос, другая у застёжки. Волосы распущены, кисти и пальцы анатомически связны; лицо одно, ухо обычное."
+    },
+    {
+      "art_key": "123-3",
+      "sha256": "3b119f7c113d670aac6faef6017bb674cd9106698d2313fd208a7b70d12b5c2b",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Архивариуса две ноги в шаге, руки скрыты плащом естественно. Двое грузчиков имеют отдельные головы/тела и по две ноги; руки частично закрыты сеном. Лошадь впереди телеги, видимые ноги связны, оглобля идёт от повозки к упряжи."
+    },
+    {
+      "art_key": "123-4",
+      "sha256": "8c1a9d8eec8b788255e8d47f5c63798f77dd22d6cd9140d482a0d64f757a9838",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "Ровно три героя. У Джека видимая кисть на лямке сумки и скрытая другая; Пиппин держит две руки в карманах, Архивариус под плащом. Волосы Архивариуса под капюшоном не собраны в видимый пучок."
+    },
+    {
+      "art_key": "123-5",
+      "sha256": "ed58fa46e240319590d2b144c0b0b3b5237604c469f4c5b2f32ccd33285cefdb",
+      "status": "no_confirmed_anatomical_artifact",
+      "reviewed": "У Архивариуса две сложенные под плащом руки; у Пиппин обе руки в карманах. Джек перекрыт ими естественно; добавочных кистей/голов нет. Распущенные пряди Архивариуса видны под капюшоном."
+    }
+  ],
+  "changed_source_panels": [
+    "96-2",
+    "97-4"
+  ],
+  "changed_reader_pages": [
+    96,
+    97
+  ]
+}

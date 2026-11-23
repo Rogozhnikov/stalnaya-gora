@@ -29,17 +29,20 @@
     "pages_rendered": 29,
     "selectable_text_checked": true,
     "cbz_members_and_crc_checked": true,
-    "included_source_art_sha256_checked": true
+    "included_source_art_sha256_checked": true,
+    "artifacts_reviewed": true,
+    "artifact_audit_sha256": "458725f83f5dcebed98509dff0dd94e8ed7624105b4f118ca01f97d42d5b680c"
   },
+  "artifact_audit": "production/artifact-audit.json",
   "pdf": {
     "file": "stalnaya-gora/pdf/Stalnaya-Gora-6-2026-11-21.pdf",
-    "size_bytes": 47149482,
-    "sha256": "093f8d7c012bff03ba62795debdf4d1d413ebd6b0ed89e0e9b14d88ff63bd045"
+    "size_bytes": 47194810,
+    "sha256": "0f146788446ebc56677d4b14cc15c033908571c96c27f163678b2e62b2fdea3d"
   },
   "cbz": {
     "file": "stalnaya-gora/issue-6/Stalnaya-Gora-6-2026-11-21.cbz",
-    "size_bytes": 29410513,
-    "sha256": "6a626e2d2a8cdbf721780eb532d1360f1cf09023edd1cf3a7d834f13959f34ef"
+    "size_bytes": 29436407,
+    "sha256": "d711daee41e11fe8c39ece73314a191d8092a470d2dfccedb30a6c3ef3d9eb2d"
   },
   "cover": {
     "file": "stalnaya-gora/issue-6/cover.jpg",
